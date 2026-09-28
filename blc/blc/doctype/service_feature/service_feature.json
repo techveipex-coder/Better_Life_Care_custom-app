@@ -1,0 +1,77 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:features_en",
+ "creation": "2026-09-28 17:40:16.937063",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "en_tab",
+  "details_section",
+  "features_en",
+  "ar_tab",
+  "details2_section",
+  "features_ar"
+ ],
+ "fields": [
+  {
+   "fieldname": "en_tab",
+   "fieldtype": "Tab Break",
+   "label": "En"
+  },
+  {
+   "fieldname": "details_section",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "features_en",
+   "fieldtype": "Data",
+   "label": "Features_En",
+   "unique": 1
+  },
+  {
+   "fieldname": "ar_tab",
+   "fieldtype": "Tab Break",
+   "label": "Ar"
+  },
+  {
+   "fieldname": "details2_section",
+   "fieldtype": "Section Break",
+   "label": "Details2"
+  },
+  {
+   "fieldname": "features_ar",
+   "fieldtype": "Data",
+   "label": "Features_Ar"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2026-09-28 17:44:28.428011",
+ "modified_by": "Administrator",
+ "module": "BLC",
+ "name": "Service Feature",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

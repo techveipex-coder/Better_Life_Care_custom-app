@@ -1,0 +1,162 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2026-09-28 16:54:06.217908",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "en_tab",
+  "details1_section",
+  "service_name",
+  "service_sub_title",
+  "image_en",
+  "en_slug",
+  "ar_tab",
+  "details2_section",
+  "service_name_ar",
+  "service_sub_title_ar",
+  "image_ar",
+  "ar_slug",
+  "en_page_layout_tab",
+  "details3_section",
+  "service_description",
+  "service_feature",
+  "ar_page_layout_tab",
+  "details4_section",
+  "ar_service_description",
+  "ar_service_feature"
+ ],
+ "fields": [
+  {
+   "fieldname": "en_tab",
+   "fieldtype": "Tab Break",
+   "label": "En"
+  },
+  {
+   "fieldname": "details1_section",
+   "fieldtype": "Section Break",
+   "label": "Details1"
+  },
+  {
+   "fieldname": "service_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Service Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "service_sub_title",
+   "fieldtype": "Data",
+   "label": "Service Sub Title"
+  },
+  {
+   "fieldname": "image_en",
+   "fieldtype": "Attach Image",
+   "label": "Image_En"
+  },
+  {
+   "fieldname": "en_slug",
+   "fieldtype": "Data",
+   "label": "En_Slug"
+  },
+  {
+   "fieldname": "ar_tab",
+   "fieldtype": "Tab Break",
+   "label": "Ar"
+  },
+  {
+   "fieldname": "details2_section",
+   "fieldtype": "Section Break",
+   "label": "Details2"
+  },
+  {
+   "fieldname": "service_name_ar",
+   "fieldtype": "Data",
+   "label": "Service Name_Ar"
+  },
+  {
+   "fieldname": "service_sub_title_ar",
+   "fieldtype": "Data",
+   "label": "Service Sub Title_Ar"
+  },
+  {
+   "fieldname": "image_ar",
+   "fieldtype": "Attach Image",
+   "label": "Ar_Image"
+  },
+  {
+   "fieldname": "ar_slug",
+   "fieldtype": "Data",
+   "label": "Ar_Slug"
+  },
+  {
+   "fieldname": "en_page_layout_tab",
+   "fieldtype": "Tab Break",
+   "label": "En Page layout"
+  },
+  {
+   "fieldname": "details3_section",
+   "fieldtype": "Section Break",
+   "label": "Details3"
+  },
+  {
+   "fieldname": "service_description",
+   "fieldtype": "Text Editor",
+   "label": "Service Description"
+  },
+  {
+   "fieldname": "service_feature",
+   "fieldtype": "Table",
+   "label": "Service Feature",
+   "options": "BLC Service Feature"
+  },
+  {
+   "fieldname": "ar_page_layout_tab",
+   "fieldtype": "Tab Break",
+   "label": "Ar Page Layout"
+  },
+  {
+   "fieldname": "details4_section",
+   "fieldtype": "Section Break",
+   "label": "Details4"
+  },
+  {
+   "fieldname": "ar_service_description",
+   "fieldtype": "Text Editor",
+   "label": "Ar_Service Description"
+  },
+  {
+   "fieldname": "ar_service_feature",
+   "fieldtype": "Table",
+   "label": "Ar_Service Feature",
+   "options": "BLC Service Feature"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2026-09-28 17:50:00.915856",
+ "modified_by": "Administrator",
+ "module": "BLC",
+ "name": "Services BLC",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

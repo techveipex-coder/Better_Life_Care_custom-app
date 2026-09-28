@@ -1,0 +1,58 @@
+{
+  "charts": [],
+  "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}}]",
+  "creation": "",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "folder-normal",
+  "idx": 0,
+  "indicator_color": "",
+  "is_hidden": 0,
+  "label": "BLC",
+  "links": [
+    {
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "BLC Masters",
+      "link_count": 1,
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Card Break"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Services BLC",
+      "link_count": 0,
+      "link_to": "Services BLC",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    }
+  ],
+  "modified": "",
+  "modified_by": "Administrator",
+  "module": "BLC",
+  "name": "BLC",
+  "number_cards": [],
+  "owner": "Administrator",
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": "",
+  "roles": [],
+  "sequence_id": 1.0,
+  "shortcuts": [
+    {
+      "label": "Services BLC",
+      "link_to": "Services BLC",
+      "type": "DocType"
+    }
+  ],
+  "title": "BLC"
+}
+
