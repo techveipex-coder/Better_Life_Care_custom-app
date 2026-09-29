@@ -1,6 +1,6 @@
 {
   "charts": [],
-  "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}}]",
+  "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}},{\"id\":\"blc_shortcut_002\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Testimonial\",\"col\":3}},{\"id\":\"blc_shortcut_003\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Website Info\",\"col\":3}},{\"id\":\"blc_shortcut_004\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Social Platforms\",\"col\":3}}]",
   "creation": "",
   "custom_blocks": [],
   "docstatus": 0,
@@ -32,11 +32,43 @@
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Testimonial",
+      "link_count": 0,
+      "link_to": "Testimonial",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Website Info",
+      "link_count": 0,
+      "link_to": "Website Info",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Social Platforms",
+      "link_count": 0,
+      "link_to": "Social Platforms",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
     }
   ],
   "modified": "",
   "modified_by": "Administrator",
-  "module": "BLC",
   "name": "BLC",
   "number_cards": [],
   "owner": "Administrator",
@@ -51,8 +83,22 @@
       "label": "Services BLC",
       "link_to": "Services BLC",
       "type": "DocType"
+    },
+    {
+      "label": "Testimonial",
+      "link_to": "Testimonial",
+      "type": "DocType"
+    },
+    {
+      "label": "Website Info",
+      "link_to": "Website Info",
+      "type": "DocType"
+    },
+    {
+      "label": "Social Platforms",
+      "link_to": "Social Platforms",
+      "type": "DocType"
     }
   ],
   "title": "BLC"
 }
-
