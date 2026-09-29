@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}}]",
+ "content": "[{\"id\": \"blc_header_001\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>BLC Management</b></span>\", \"col\": 12}}, {\"id\": \"blc_card_001\", \"type\": \"card\", \"data\": {\"card_name\": \"BLC Masters\", \"col\": 12}}, {\"id\": \"blc_spacer_001\", \"type\": \"spacer\", \"data\": {\"col\": 12}}, {\"id\": \"blc_shortcut_header_001\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>Quick Access</b></span>\", \"col\": 12}}, {\"id\": \"blc_shortcut_001\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Services BLC\", \"col\": 3}}, {\"id\": \"blc_shortcut_002\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Testimonial\", \"col\": 3}}]",
  "creation": "2026-09-28 17:36:59.289023",
  "custom_blocks": [],
  "docstatus": 0,
@@ -32,9 +32,20 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Testimonial",
+   "link_count": 0,
+   "link_to": "Testimonial",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2026-09-28 17:36:59.289023",
+ "modified": "2026-09-29 09:33:45.672193",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "BLC",
@@ -51,6 +62,12 @@
    "doc_view": "",
    "label": "Services BLC",
    "link_to": "Services BLC",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Testimonial",
+   "link_to": "Testimonial",
    "type": "DocType"
   }
  ],
