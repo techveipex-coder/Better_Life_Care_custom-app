@@ -55,14 +55,15 @@
   },
   {
    "fieldname": "reciver_mail",
-   "fieldtype": "Data",
-   "label": "Reciver Mail"
+   "fieldtype": "Link",
+   "label": "Reciver Mail",
+   "options": "User Email"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-01 17:05:52.436868",
+ "modified": "2026-10-04 11:54:41.937298",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Contact-us BLC Form",
