@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2026-10-04 16:46:46.546022",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "connection_details_section",
+  "phone_number",
+  "whats_app_number",
+  "email",
+  "address",
+  "timetable"
+ ],
+ "fields": [
+  {
+   "fieldname": "connection_details_section",
+   "fieldtype": "Section Break",
+   "label": "Connection Details"
+  },
+  {
+   "fieldname": "phone_number",
+   "fieldtype": "Data",
+   "label": "Phone Number "
+  },
+  {
+   "fieldname": "whats_app_number",
+   "fieldtype": "Data",
+   "label": "What's app Number "
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Data",
+   "label": "Address"
+  },
+  {
+   "fieldname": "timetable",
+   "fieldtype": "Table",
+   "label": "TimeTable",
+   "options": "BLC Timetable"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2026-10-04 16:56:53.388947",
+ "modified_by": "Administrator",
+ "module": "BLC",
+ "name": "BLC-Contact-us Info",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
