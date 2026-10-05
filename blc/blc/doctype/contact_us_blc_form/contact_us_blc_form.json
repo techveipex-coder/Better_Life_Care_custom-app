@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:full_name",
  "creation": "2026-10-01 15:10:40.174575",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -25,7 +26,8 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Full Name",
-   "reqd": 1
+   "reqd": 1,
+   "unique": 1
   },
   {
    "fieldname": "phone_number",
@@ -63,10 +65,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-04 11:54:41.937298",
+ "modified": "2026-10-05 12:20:52.668351",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Contact-us BLC Form",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
