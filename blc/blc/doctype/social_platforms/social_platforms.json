@@ -8,7 +8,8 @@
  "field_order": [
   "details_section",
   "platform_name",
-  "platform_url"
+  "platform_url",
+  "platform_icon"
  ],
  "fields": [
   {
@@ -28,12 +29,17 @@
    "fieldname": "platform_url",
    "fieldtype": "Data",
    "label": "Platform Url "
+  },
+  {
+   "fieldname": "platform_icon",
+   "fieldtype": "Attach Image",
+   "label": "Platform Icon"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-29 10:04:21.176339",
+ "modified": "2026-10-05 11:00:05.562561",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Social Platforms",
