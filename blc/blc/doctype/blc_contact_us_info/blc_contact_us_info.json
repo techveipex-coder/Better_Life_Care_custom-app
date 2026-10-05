@@ -1,11 +1,13 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:company_name",
  "creation": "2026-10-04 16:46:46.546022",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "connection_details_section",
+  "company_name",
   "phone_number",
   "whats_app_number",
   "email",
@@ -43,15 +45,22 @@
    "fieldtype": "Table",
    "label": "TimeTable",
    "options": "BLC Timetable"
+  },
+  {
+   "fieldname": "company_name",
+   "fieldtype": "Data",
+   "label": "Company Name",
+   "unique": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-04 16:56:53.388947",
+ "modified": "2026-10-04 17:04:25.471415",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "BLC-Contact-us Info",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

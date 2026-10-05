@@ -15,13 +15,23 @@
   "vission_details_section",
   "vission_title",
   "vission_description",
-  "vission_image"
+  "vission_image",
+  "ar_mission_tab",
+  "ar_mission_details_section",
+  "ar_mission_title",
+  "ar_mission_description",
+  "ar_mission_image",
+  "ar_vission_tab",
+  "ar_vission_details_section",
+  "ar_vission_title",
+  "ar_vission_description",
+  "ar_vission_image"
  ],
  "fields": [
   {
    "fieldname": "mission_tab",
    "fieldtype": "Tab Break",
-   "label": "Mission"
+   "label": "En-Mission"
   },
   {
    "fieldname": "details_section",
@@ -47,7 +57,7 @@
   {
    "fieldname": "vission_tab",
    "fieldtype": "Tab Break",
-   "label": "Vission"
+   "label": "En-Vission"
   },
   {
    "fieldname": "vission_details_section",
@@ -68,12 +78,62 @@
    "fieldname": "vission_image",
    "fieldtype": "Attach Image",
    "label": "Vission Image"
+  },
+  {
+   "fieldname": "ar_mission_tab",
+   "fieldtype": "Tab Break",
+   "label": "Ar Mission"
+  },
+  {
+   "fieldname": "ar_mission_details_section",
+   "fieldtype": "Section Break",
+   "label": "Ar Mission Details"
+  },
+  {
+   "fieldname": "ar_mission_title",
+   "fieldtype": "Data",
+   "label": "Ar Mission Title"
+  },
+  {
+   "fieldname": "ar_mission_description",
+   "fieldtype": "Text Editor",
+   "label": "Ar Mission Description "
+  },
+  {
+   "fieldname": "ar_mission_image",
+   "fieldtype": "Attach Image",
+   "label": "Ar Mission Image"
+  },
+  {
+   "fieldname": "ar_vission_tab",
+   "fieldtype": "Tab Break",
+   "label": "Ar Vission"
+  },
+  {
+   "fieldname": "ar_vission_details_section",
+   "fieldtype": "Section Break",
+   "label": "Ar Vission Details"
+  },
+  {
+   "fieldname": "ar_vission_title",
+   "fieldtype": "Data",
+   "label": "Ar Vission Title"
+  },
+  {
+   "fieldname": "ar_vission_description",
+   "fieldtype": "Text Editor",
+   "label": "Ar Vission Description"
+  },
+  {
+   "fieldname": "ar_vission_image",
+   "fieldtype": "Attach Image",
+   "label": "Ar Vission Image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-04 16:13:00.792460",
+ "modified": "2026-10-05 10:08:48.134741",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Mission-Vision-BLC",
