@@ -1,0 +1,98 @@
+[
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "test 1",
+    "parent": "Test Service",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": "خدمات 1",
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "services1",
+  "image_ar": null,
+  "image_en": null,
+  "modified": "2026-10-04 14:57:34.531033",
+  "name": "Test Service",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>test description </p></div>",
+  "service_feature": [
+   {
+    "feature": "test 1",
+    "parent": "Test Service",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Test Service",
+  "service_name_ar": "تجربه 1",
+  "service_sub_title": "the test Sub Title",
+  "service_sub_title_ar": "نص للعنوان"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "test2",
+    "parent": "Test Service 2",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": "خدمات 2",
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "services2",
+  "image_ar": null,
+  "image_en": null,
+  "modified": "2026-10-05 15:36:29.249461",
+  "name": "Test Service 2",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>test description</p></div>",
+  "service_feature": [
+   {
+    "feature": "test2",
+    "parent": "Test Service 2",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Test Service 2",
+  "service_name_ar": "تجربه 2",
+  "service_sub_title": "the test Sub Title",
+  "service_sub_title_ar": "نص للعنوان2"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "test 1",
+    "parent": "Service 3",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": "خدمات 3",
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "services3",
+  "image_ar": null,
+  "image_en": null,
+  "modified": "2026-10-15 17:07:53.179882",
+  "name": "Service 3",
+  "service_description": "<div class=\"ql-editor read-mode\"><p>test description</p></div>",
+  "service_feature": [
+   {
+    "feature": "test 1",
+    "parent": "Service 3",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Service 3",
+  "service_name_ar": "تجربه 3",
+  "service_sub_title": "the test Sub Title",
+  "service_sub_title_ar": "نص للعنوان"
+ }
+]
