@@ -1,0 +1,23 @@
+[
+ {
+  "address": "40-Elzahraa",
+  "company_name": null,
+  "docstatus": 0,
+  "doctype": "BLC-Contact-us Info",
+  "email": "techveipex@gmail.com",
+  "modified": "2026-10-04 17:00:07.497253",
+  "name": "5obmo4dp1r",
+  "phone_number": "0111883387437",
+  "timetable": [
+   {
+    "day": "Saturday",
+    "end_time": "23:59:59",
+    "parent": "5obmo4dp1r",
+    "parentfield": "timetable",
+    "parenttype": "BLC-Contact-us Info",
+    "start_time": "16:59:09"
+   }
+  ],
+  "whats_app_number": "010654656357"
+ }
+]
