@@ -8,8 +8,6 @@
  "field_order": [
   "details_section",
   "website_name",
-  "phone_number",
-  "whats_app_number",
   "social_limks"
  ],
  "fields": [
@@ -25,16 +23,6 @@
    "unique": 1
   },
   {
-   "fieldname": "phone_number",
-   "fieldtype": "Data",
-   "label": "Phone Number"
-  },
-  {
-   "fieldname": "whats_app_number",
-   "fieldtype": "Data",
-   "label": "What's app Number"
-  },
-  {
    "fieldname": "social_limks",
    "fieldtype": "Table",
    "label": "Social Limks",
@@ -44,7 +32,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-29 10:06:08.758251",
+ "modified": "2026-10-18 10:52:44.481765",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Website Info",
