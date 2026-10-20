@@ -1,8 +1,7 @@
-
 {
   "charts": [],
-  "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}},{\"id\":\"blc_shortcut_002\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Testimonial\",\"col\":3}},{\"id\":\"blc_shortcut_003\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Website Info\",\"col\":3}},{\"id\":\"blc_shortcut_004\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Social Platforms\",\"col\":3}},{\"id\":\"blc_shortcut_005\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BLC Consultant Info\",\"col\":3}},{\"id\":\"blc_shortcut_006\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BLC-Contact-us Info\",\"col\":3}},{\"id\":\"blc_shortcut_007\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Contact-us BLC Form\",\"col\":3}}]",
-  "creation": "",
+  "content": "[{\"id\":\"blc_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>BLC Management</b></span>\",\"col\":12}},{\"id\":\"blc_card_001\",\"type\":\"card\",\"data\":{\"card_name\":\"BLC Masters\",\"col\":12}},{\"id\":\"blc_spacer_001\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"blc_shortcut_header_001\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Quick Access</b></span>\",\"col\":12}},{\"id\":\"blc_shortcut_001\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Services BLC\",\"col\":3}},{\"id\":\"blc_shortcut_002\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Testimonial\",\"col\":3}},{\"id\":\"blc_shortcut_003\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Website Info\",\"col\":3}},{\"id\":\"blc_shortcut_004\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Social Platforms\",\"col\":3}},{\"id\":\"blc_shortcut_005\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BLC Consultant Info\",\"col\":3}},{\"id\":\"blc_shortcut_006\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BLC-Contact-us Info\",\"col\":3}},{\"id\":\"blc_shortcut_007\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Contact-us BLC Form\",\"col\":3}},{\"id\":\"blc_shortcut_008\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Mission-Vision-BLC\",\"col\":3}},{\"id\":\"blc_shortcut_009\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Service Feature\",\"col\":3}}]",
+  "creation": "2026-09-28 17:36:59.289023",
   "custom_blocks": [],
   "docstatus": 0,
   "doctype": "Workspace",
@@ -73,7 +72,7 @@
       "is_query_report": 0,
       "label": "BLC Consultant Info",
       "link_count": 0,
-      "link_to": "BLC Consultant Info",
+      "link_to": "BLC consultant Info",
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
@@ -99,52 +98,95 @@
       "link_type": "DocType",
       "onboard": 0,
       "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Mission-Vision-BLC",
+      "link_count": 0,
+      "link_to": "Mission-Vision-BLC",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
+    },
+    {
+      "dependencies": "",
+      "hidden": 0,
+      "is_query_report": 0,
+      "label": "Service Feature",
+      "link_count": 0,
+      "link_to": "Service Feature",
+      "link_type": "DocType",
+      "onboard": 0,
+      "type": "Link"
     }
   ],
-  "modified": "",
+  "modified": "2026-10-20 17:23:00.000000",
   "modified_by": "Administrator",
+  "module": "BLC",
   "name": "BLC",
   "number_cards": [],
   "owner": "Administrator",
   "parent_page": "",
   "public": 1,
   "quick_lists": [],
+  "restrict_to_domain": "",
   "roles": [],
   "sequence_id": 1.0,
   "shortcuts": [
     {
+      "doc_view": "",
       "label": "Services BLC",
       "link_to": "Services BLC",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "Testimonial",
       "link_to": "Testimonial",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "Website Info",
       "link_to": "Website Info",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "Social Platforms",
       "link_to": "Social Platforms",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "BLC Consultant Info",
-      "link_to": "BLC Consultant Info",
+      "link_to": "BLC consultant Info",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "BLC-Contact-us Info",
       "link_to": "BLC-Contact-us Info",
       "type": "DocType"
     },
     {
+      "doc_view": "",
       "label": "Contact-us BLC Form",
       "link_to": "Contact-us BLC Form",
+      "type": "DocType"
+    },
+    {
+      "doc_view": "",
+      "label": "Mission-Vision-BLC",
+      "link_to": "Mission-Vision-BLC",
+      "type": "DocType"
+    },
+    {
+      "doc_view": "",
+      "label": "Service Feature",
+      "link_to": "Service Feature",
       "type": "DocType"
     }
   ],
