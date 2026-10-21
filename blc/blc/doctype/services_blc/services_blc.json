@@ -48,7 +48,7 @@
   },
   {
    "fieldname": "service_sub_title",
-   "fieldtype": "Data",
+   "fieldtype": "Text Editor",
    "label": "Service Sub Title"
   },
   {
@@ -78,7 +78,7 @@
   },
   {
    "fieldname": "service_sub_title_ar",
-   "fieldtype": "Data",
+   "fieldtype": "Text Editor",
    "label": "Service Sub Title_Ar"
   },
   {
@@ -137,7 +137,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-09-29 09:37:10.511706",
+ "modified": "2026-10-21 10:20:22.268504",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Services BLC",
