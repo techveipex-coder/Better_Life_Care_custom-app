@@ -12,6 +12,7 @@
   "service_sub_title",
   "image_en",
   "en_slug",
+  "is_main_service",
   "ar_tab",
   "details2_section",
   "service_name_ar",
@@ -132,12 +133,18 @@
    "fieldtype": "Table",
    "label": "Ar_Service Feature",
    "options": "BLC Service Feature"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_main_service",
+   "fieldtype": "Check",
+   "label": "Is Main Service "
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-21 10:20:22.268504",
+ "modified": "2026-10-22 12:58:39.631035",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Services BLC",
