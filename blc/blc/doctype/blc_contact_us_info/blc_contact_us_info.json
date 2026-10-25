@@ -9,6 +9,7 @@
   "connection_details_section",
   "company_name",
   "phone_number",
+  "second_phone_number",
   "whats_app_number",
   "email",
   "address",
@@ -51,12 +52,17 @@
    "fieldtype": "Data",
    "label": "Company Name",
    "unique": 1
+  },
+  {
+   "fieldname": "second_phone_number",
+   "fieldtype": "Data",
+   "label": "Second Phone Number"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-04 17:04:25.471415",
+ "modified": "2026-10-25 16:42:21.598475",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "BLC-Contact-us Info",
