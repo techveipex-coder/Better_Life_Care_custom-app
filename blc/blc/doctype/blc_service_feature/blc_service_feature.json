@@ -7,7 +7,9 @@
  "engine": "InnoDB",
  "field_order": [
   "details_section",
-  "feature"
+  "feature",
+  "feature_ar",
+  "feature_ar_link"
  ],
  "fields": [
   {
@@ -22,13 +24,27 @@
    "label": "Feature",
    "options": "Service Feature",
    "reqd": 1
+  },
+  {
+   "fetch_from": "feature_ar.features_ar",
+   "fieldname": "feature_ar_link",
+   "fieldtype": "Data",
+   "label": "features_ar",
+   "read_only": 1
+  },
+  {
+   "fieldname": "feature_ar",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Features_Ar",
+   "options": "Service Feature"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2026-09-28 17:50:19.880717",
+ "modified": "2026-10-26 17:34:55.276663",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "BLC Service Feature",
