@@ -10,22 +10,18 @@
   "details_section",
   "title",
   "description",
-  "mission_image",
   "vission_tab",
   "vission_details_section",
   "vission_title",
   "vission_description",
-  "vission_image",
   "ar_mission_tab",
   "ar_mission_details_section",
   "ar_mission_title",
   "ar_mission_description",
-  "ar_mission_image",
   "ar_vission_tab",
   "ar_vission_details_section",
   "ar_vission_title",
-  "ar_vission_description",
-  "ar_vission_image"
+  "ar_vission_description"
  ],
  "fields": [
   {
@@ -50,11 +46,6 @@
    "label": "Mission Description "
   },
   {
-   "fieldname": "mission_image",
-   "fieldtype": "Attach Image",
-   "label": "Mission Image"
-  },
-  {
    "fieldname": "vission_tab",
    "fieldtype": "Tab Break",
    "label": "En-Vission"
@@ -73,11 +64,6 @@
    "fieldname": "vission_description",
    "fieldtype": "Text Editor",
    "label": "Vission Description"
-  },
-  {
-   "fieldname": "vission_image",
-   "fieldtype": "Attach Image",
-   "label": "Vission Image"
   },
   {
    "fieldname": "ar_mission_tab",
@@ -100,11 +86,6 @@
    "label": "Ar Mission Description "
   },
   {
-   "fieldname": "ar_mission_image",
-   "fieldtype": "Attach Image",
-   "label": "Ar Mission Image"
-  },
-  {
    "fieldname": "ar_vission_tab",
    "fieldtype": "Tab Break",
    "label": "Ar Vission"
@@ -123,17 +104,12 @@
    "fieldname": "ar_vission_description",
    "fieldtype": "Text Editor",
    "label": "Ar Vission Description"
-  },
-  {
-   "fieldname": "ar_vission_image",
-   "fieldtype": "Attach Image",
-   "label": "Ar Vission Image"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-05 10:08:48.134741",
+ "modified": "2026-11-02 12:45:17.150308",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Mission-Vision-BLC",
