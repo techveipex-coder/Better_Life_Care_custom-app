@@ -2,11 +2,17 @@
  {
   "docstatus": 0,
   "doctype": "Website Info",
-  "modified": "2026-10-18 10:27:55.959064",
+  "modified": "2026-11-03 11:08:30.303152",
   "name": "Better Life care",
   "social_limks": [
    {
     "blc_platform": "Facebook Test",
+    "parent": "Better Life care",
+    "parentfield": "social_limks",
+    "parenttype": "Website Info"
+   },
+   {
+    "blc_platform": "Instagram",
     "parent": "Better Life care",
     "parentfield": "social_limks",
     "parenttype": "Website Info"

@@ -1,98 +1,322 @@
 [
  {
-  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
-  "ar_service_feature": [
-   {
-    "feature": "test 1",
-    "parent": "Test Service",
-    "parentfield": "ar_service_feature",
-    "parenttype": "Services BLC"
-   }
-  ],
-  "ar_slug": "خدمات 1",
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. رعاية إنسانية قائمة على صون الكرامة الإنسانية</p><p>إن رعاية الأشخاص المصابين بمرض ألزهايمر وفقدان الذاكرة تتطلب أكثر بكثير من مجرد تقديم المساعدة اليومية؛ فهي تستلزم الصبر والتعاطف والفهم العميق للحالة النفسية والعاطفية. نحرص على صون الكرامة الإنسانية واحترام الخصوصية الشخصية بشكل صارم، مع توفير بيئة منزلية هادئة تبعث على الطمأنينة، وتحدّ من القلق والارتباك، مع معاملة كل فرد بدفء صادق وتقدير واحترام.</p><p>2. التحفيز المعرفي والاندماج الاجتماعي الفعّال</p><p>نتبنى مبادئ الرعاية النشطة، مع التركيز على الحفاظ على القدرات الإدراكية المتبقية وتحفيزها، بدلًا من تعزيز الاعتماد على الآخرين. ويحرص فريقنا على تقديم تمارين مخصصة لتنشيط الذاكرة، وألعاب ذهنية تفاعلية، وأنشطة حسية تهدف إلى إبطاء التدهور المعرفي. ومن خلال تشجيع الاندماج الاجتماعي اليومي والتفاعلات الهادفة، نساعد أحبّاءكم على الحفاظ على نشاطهم الذهني وارتباطهم العاطفي بمحيطهم.</p><p>3. روتين يومي منظم ورعاية بإشراف الطبيب المعالج</p><p>نوفر للعائلات راحة البال والاطمئنان من خلال تنظيم روتين يومي ثابت يعزز الشعور بالألفة والراحة. ونلتزم التزامًا كاملًا بتعليمات الطبيب المعالج وخطة الرعاية المحددة، مع ضمان الالتزام الدقيق بإدارة الأدوية ومتابعة العلامات الحيوية. وبفضل المتابعة المستمرة للجودة والسلامة، نحقق التوازن بين توفير بيئة منزلية آمنة والحفاظ على حرية الفرد واستقلاليته الشخصية.</p></div>",
+  "ar_service_feature": [],
+  "ar_slug": "الذاكرة ورعاية الزهايمر",
   "docstatus": 0,
   "doctype": "Services BLC",
-  "en_slug": "services1",
+  "en_slug": "Memory & Alzheimer’s Care",
   "image_ar": null,
   "image_en": null,
-  "modified": "2026-10-04 14:57:34.531033",
-  "name": "Test Service",
-  "service_description": "<div class=\"ql-editor read-mode\"><p>test description </p></div>",
+  "is_main_service": 1,
+  "modified": "2026-10-22 14:27:20.944733",
+  "name": "Memory & Alzheimer’s Care",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Compassionate Care Grounded in Human Dignity</strong></p><p>Caring for individuals with Alzheimer’s and memory loss requires far more than routine assistance it demands patience, empathy, and deep emotional understanding. We strictly uphold human dignity and personal privacy, creating a calm, reassuring home environment that reduces anxiety and confusion while treating each individual with genuine warmth, honor, and respect. </p><p><strong>2. Cognitive Stimulation &amp; Active Social Inclusion</strong></p><p>We implement active care principles, focusing on preserving and stimulating remaining cognitive abilities rather than creating dependency. Our team incorporates tailored memory exercises, engaging brain games, and sensory activities designed to slow cognitive decline. By encouraging daily social inclusion and meaningful interactions, we help your loved ones stay mentally active and emotionally connected. </p><p><strong>3. Structured Routines &amp; Physician-Guided Care</strong></p><p>We offer families absolute peace of mind through structured daily routines that promote familiarity and comfort. Executed in full alignment with the treating physician’s orders and care plan, we ensure strict medication management and vital signs tracking. Supported by our ongoing quality and safety supervision, we strike the perfect balance between household safety and personal freedom. </p></div>",
   "service_feature": [
    {
-    "feature": "test 1",
-    "parent": "Test Service",
+    "feature": "Cognitive Stimulation & Active Social Inclusion",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Memory & Alzheimer’s Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Compassionate Care Grounded in Human Dignity",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Memory & Alzheimer’s Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Structured Routines & Physician-Guided Care",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Memory & Alzheimer’s Care",
     "parentfield": "service_feature",
     "parenttype": "Services BLC"
    }
   ],
-  "service_name": "Test Service",
-  "service_name_ar": "تجربه 1",
-  "service_sub_title": "the test Sub Title",
-  "service_sub_title_ar": "نص للعنوان"
+  "service_name": "Memory & Alzheimer’s Care",
+  "service_name_ar": "الذاكرة ورعاية الزهايمر",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>A specialized service dedicated to memory support and safety through structured daily routines. Stimulates cognitive engagement and slows decline while ensuring complete peace of mind for the family.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>.خدمة متخصصة مخصصة لدعم الذاكرة والسلامة من خلال روتين يومي منظم. تحفز النشاط العقلي وتبطئ التراجع مع ضمان راحة البال الكاملة للعائلة</p></div>"
  },
  {
-  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. دعم الحركة بكرامة وتعزيز الاستقلالية في اتخاذ القرار</p><p>ندرك حجم التحديات النفسية والجسدية التي قد تسببها الإصابة بمرض باركنسون والحالات العصبية. وانطلاقًا من المبادئ الأساسية المتمثلة في احترام الكرامة الإنسانية وتعزيز الاستقلالية في اتخاذ القرار، نساعد أحبّاءكم على الحركة وإنجاز المهام اليومية دون المساس باستقلاليتهم، بما يضمن شعورهم بالثقة والاحترام والتقدير.</p><p>2. تعزيز الحركة والوقاية من السقوط</p><p>من خلال تطبيق مبادئ الرعاية النشطة والوقاية، نركز على الحركة الآمنة، وتمارين التوازن، واتخاذ التدابير الاستباقية للحد من مخاطر السقوط. كما نشجع على ممارسة الأنشطة البدنية الآمنة للحفاظ على القدرات الحركية الحالية والحد من التيبّس، مما يساعد أحبّاءكم على الحفاظ على أكبر قدر ممكن من القدرة على الحركة ضمن بيئة دافئة ومحفّزة.</p><p>3. المتابعة الطبية الدقيقة وإدارة الأدوية</p><p>تتطلب رعاية الأشخاص المصابين بالأمراض العصبية دقةً فائقة في الالتزام بمواعيد الأدوية. وبما يتوافق تمامًا مع تعليمات الطبيب المعالج وخطة الرعاية الموصوفة، نحرص على إعطاء الأدوية في مواعيدها المحددة ومتابعة التغيرات الجسدية باستمرار. ومن خلال الإشراف على الجودة والسلامة، نجمع بين الدقة الطبية والاهتمام الإنساني، لنمنح الأسر الثقة والطمأنينة وراحة البال.</p></div>",
   "ar_service_feature": [
    {
-    "feature": "test2",
-    "parent": "Test Service 2",
+    "feature": "Active Mobility & Fall Prevention",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Precise Clinical Supervision & Medication Management",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Dignified Mobility & Empowered Self-Determination",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
     "parentfield": "ar_service_feature",
     "parenttype": "Services BLC"
    }
   ],
-  "ar_slug": "خدمات 2",
+  "ar_slug": "رعاية الباركنسون والأمراض العصبية",
   "docstatus": 0,
   "doctype": "Services BLC",
-  "en_slug": "services2",
+  "en_slug": "Parkinson’s & Neurological Care",
   "image_ar": null,
   "image_en": null,
-  "modified": "2026-10-05 15:36:29.249461",
-  "name": "Test Service 2",
-  "service_description": "<div class=\"ql-editor read-mode\"><p>test description</p></div>",
+  "is_main_service": 1,
+  "modified": "2026-10-22 14:27:09.058205",
+  "name": "Parkinson’s & Neurological Care",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Dignified Mobility &amp; Empowered Self-Determination</strong></p><p>We understand the emotional and physical frustration caused by Parkinson’s and neurological conditions. Guided by the core principles of self-determination and human dignity, we assist your loved ones with mobility and daily tasks without stripping away their independence, ensuring they feel confident, respected, and deeply valued. </p><p><strong>2. Active Mobility &amp; Fall Prevention</strong></p><p>Applying active care and prevention frameworks, we focus on safe movement, balance exercises, and proactive fall prevention. We encourage safe physical engagement to preserve existing motor functions and prevent stiffness, helping your loved one maintain maximum mobility within a warm and encouraging environment. </p><p><strong>3. Precise Clinical Supervision &amp; Medication Management</strong></p><p>Managing neurological conditions demands absolute precision with medication schedules. Executed in full alignment with the treating physician’s orders and prescribed care plan, we guarantee timely medication administration and continuous tracking of physical changes. Supported by our quality and safety supervision, this blend of clinical accuracy and human warmth gives families complete confidence and peace of mind. </p></div>",
   "service_feature": [
    {
-    "feature": "test2",
-    "parent": "Test Service 2",
+    "feature": "Dignified Mobility & Empowered Self-Determination",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Mobility & Fall Prevention",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Precise Clinical Supervision & Medication Management",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Parkinson’s & Neurological Care",
     "parentfield": "service_feature",
     "parenttype": "Services BLC"
    }
   ],
-  "service_name": "Test Service 2",
-  "service_name_ar": "تجربه 2",
-  "service_sub_title": "the test Sub Title",
-  "service_sub_title_ar": "نص للعنوان2"
+  "service_name": "Parkinson’s & Neurological Care",
+  "service_name_ar": "رعاية الباركنسون والأمراض العصبية",
+  "service_sub_title": "Specialized care that supports mobility, independence, and quality of life.",
+  "service_sub_title_ar": "رعاية متخصصة تدعم القدرة على التنقل، والاستقلالية، وجودة الحياة."
  },
  {
-  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>تجربه لاضافه وصف</p></div>",
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. رعاية سريرية متقدمة ترتكز على الكرامة والخصوصية</p><p>تشمل خدماتنا التمريضية السريرية المتكاملة تقديم الرعاية الطبية المنزلية للحالات المعقدة، بدءًا من العناية المتقدمة بالجروح ومتابعة العلامات الحيوية، وصولًا إلى الدعم المكثف خلال مراحل التعافي. ونلتزم التزامًا كاملًا بتعليمات الطبيب المعالج والتقارير الطبية، مع إعطاء الأولوية لكرامة الإنسان وخصوصيته، وضمان تنفيذ جميع الإجراءات السريرية بأعلى درجات الاحترافية والاحترام الإنساني والتعاطف والسرية.</p><p>2. بروتوكولات رعاية بإشراف الأطباء ومتابعة مستمرة</p><p>نلتزم بدقة بمعايير الرعاية المهنية، حيث يحرص فريق التمريض المؤهل على تطبيق أعلى معايير النظافة السريرية والدقة في تقديم الرعاية، إلى جانب المتابعة الاستباقية تحت إشراف مستمر لضمان الجودة والسلامة. ومن خلال المراقبة المستمرة للمؤشرات الحيوية وفقًا للخطة الطبية المقررة، نعمل على اكتشاف المضاعفات المحتملة والحد منها مبكرًا، مع الحفاظ على بيئة رعاية منزلية آمنة ومستقرة بأعلى المستويات.</p><p>3. تأهيل فعّال يجمع بين الرعاية الطبية والاهتمام الإنساني</p><p>إلى جانب الرعاية الطبية، نعتمد مبادئ الرعاية الفعّالة للمساعدة على استعادة الصحة والثقة بالنفس والقدرة على الحركة بأمان. ويجمع فريق التمريض لدينا بين الخبرة السريرية المتقدمة والاهتمام الإنساني الصادق، بما يشجع على استعادة الاستقلالية تدريجيًا وتعزيز القوة النفسية، بالتوافق مع التوجيهات الطبية، لنمنح الأسر ثقة كاملة وراحة بال وطمأنينة تامة.</p></div>",
   "ar_service_feature": [
    {
-    "feature": "test 1",
-    "parent": "Service 3",
+    "feature": "Advanced Clinical Care Grounded in Dignity and Privacy",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Comprehensive Clinical Nursing",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Protocols & Continuous Monitoring",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Comprehensive Clinical Nursing",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation with Warm Human Connection",
+    "feature_ar": null,
+    "feature_ar_link": null,
+    "parent": "Comprehensive Clinical Nursing",
     "parentfield": "ar_service_feature",
     "parenttype": "Services BLC"
    }
   ],
-  "ar_slug": "خدمات 3",
+  "ar_slug": "التمريض الإكلينيكي الشامل",
   "docstatus": 0,
   "doctype": "Services BLC",
-  "en_slug": "services3",
+  "en_slug": "comprehensive-clinical-nursing",
   "image_ar": null,
   "image_en": null,
-  "modified": "2026-10-15 17:07:53.179882",
-  "name": "Service 3",
-  "service_description": "<div class=\"ql-editor read-mode\"><p>test description</p></div>",
+  "is_main_service": 1,
+  "modified": "2026-10-26 17:35:32.921723",
+  "name": "Comprehensive Clinical Nursing",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Advanced Clinical Care Grounded in Dignity and Privacy</strong></p><p>Our comprehensive clinical nursing covers complex home medical care, from advanced wound management and vital signs tracking to intensive recovery support. Executed in full alignment with the treating physician’s orders and medical reports, we prioritize human dignity and personal privacy, ensuring all clinical procedures are carried out with utmost professional respect, gentle empathy, and discretion. </p><p><strong>2. Physician-Guided Protocols &amp; Continuous Monitoring</strong></p><p>We adhere strictly to professional care standards, where certified nursing staff maintain flawless clinical hygiene, precision, and proactive monitoring under our ongoing quality and safety supervision. By continuously tracking vital health indicators according to the prescribed medical plan, we prevent complications early and maintain a safe, highly stable care environment right at home. </p><p><strong>3. Active Rehabilitation with Warm Human Connection</strong></p><p>Beyond medical management, we incorporate active care principles to safely restore health, confidence, and mobility. Our nurses blend high-level clinical mastery with genuine warmth, encouraging gradual independence and emotional strength in harmony with medical guidance to give families absolute confidence and complete peace of mind. </p></div>",
   "service_feature": [
    {
-    "feature": "test 1",
-    "parent": "Service 3",
+    "feature": "Advanced Clinical Care Grounded in Dignity and Privacy",
+    "feature_ar": "Advanced Clinical Care Grounded in Dignity and Privacy",
+    "feature_ar_link": "رعاية سريرية متقدمة ترتكز على الكرامة والخصوصية",
+    "parent": "Comprehensive Clinical Nursing",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Protocols & Continuous Monitoring",
+    "feature_ar": "Physician-Guided Protocols & Continuous Monitoring",
+    "feature_ar_link": "بروتوكولات رعاية بإشراف الأطباء ومتابعة مستمرة",
+    "parent": "Comprehensive Clinical Nursing",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation with Warm Human Connection",
+    "feature_ar": "Active Rehabilitation with Warm Human Connection",
+    "feature_ar_link": "تأهيل فعّال يجمع بين الرعاية الطبية والاهتمام الإنساني",
+    "parent": "Comprehensive Clinical Nursing",
     "parentfield": "service_feature",
     "parenttype": "Services BLC"
    }
   ],
-  "service_name": "Service 3",
-  "service_name_ar": "تجربه 3",
-  "service_sub_title": "the test Sub Title",
-  "service_sub_title_ar": "نص للعنوان"
+  "service_name": "Comprehensive Clinical Nursing",
+  "service_name_ar": "التمريض الإكلينيكي الشامل",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Full-spectrum clinical in-home nursing covering complex cases, vital sign monitoring, and wound care executed in full alignment with the treating physician’s orders and care plan, supported by our 24/7 quality and safety follow-up protocol.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>تمريض سريري شامل في المنزل يشمل الحالات المعقدة، ومراقبة العلامات الحيوية، والعناية بالجروح، يتم تنفيذه بالكامل وفقًا لأوامر وخطة علاج الطبيب المعالج، بدعم من بروتوكول المتابعة للجودة والسلامة المتاح على مدار الساعه</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. الدعم اليومي القائم على الكرامة الإنسانية وحق تقرير المصير</p><p>نقدم مساعدة يومية تتسم بالرحمة والاهتمام في أداء الأنشطة الأساسية للحياة، بما في ذلك العناية الشخصية، والنظافة، والتنقل الآمن. وانطلاقًا من المبادئ الأساسية لاحترام كرامة الإنسان وحقه في اتخاذ قراراته بنفسه، نحرص على حصول كبار السن على الدعم اللازم باحترام وتقدير، مع الحفاظ على استقلاليتهم وحقهم في التحكم في تفاصيل حياتهم اليومية واتخاذ قراراتهم الشخصية.</p><p>2. تعزيز الاستقلالية الفعّالة واحترام الخصوصية</p><p>من خلال تطبيق مبادئ الرعاية النشطة، نشجع كبار السن على القيام بأكبر قدر ممكن من الأنشطة بأنفسهم، طالما كان ذلك آمنًا، مع تقديم المساعدة عند الحاجة فقط، بما يعزز استقلاليتهم الحقيقية. كما نحرص على توفير تغذية متوازنة وتنظيم الأنشطة البدنية اليومية بطريقة آمنة، مع الالتزام التام باحترام الخصوصية الشخصية والتفضيلات الفردية لكل شخص.</p><p>3. بيئة منزلية آمنة تمنح الأسرة راحة البال</p><p>نحرص على توفير أعلى مستويات الأمان داخل المنزل من خلال الحد من مخاطر السقوط، والحفاظ على روتين يومي منظم وموثوق. ومن خلال دمج هذه الإجراءات مع بروتوكول المتابعة والإشراف المستمر، نمنح الأسر الثقة والطمأنينة الكاملة، مع التأكد من حصول والديهم وأحبّائهم على رعاية دقيقة وفقًا للمعايير المهنية المعتمدة، وبكل إخلاص وإنسانية.</p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Daily Support Grounded in Dignity and Self-Determination",
+    "feature_ar": "Daily Support Grounded in Dignity and Self-Determination",
+    "feature_ar_link": "الدعم اليومي مبني على الكرامة وتقرير المصير",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Promoting Active Independence & Privacy",
+    "feature_ar": "Promoting Active Independence & Privacy",
+    "feature_ar_link": "تعزيز الاستقلالية النشطة والخصوصية",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "A Safe Home Environment with Family Peace of Mind",
+    "feature_ar": "A Safe Home Environment with Family Peace of Mind",
+    "feature_ar_link": "بيئة منزلية آمنة مع راحة البال للعائلة",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "elderly-care & daily-living-support",
+  "image_ar": null,
+  "image_en": null,
+  "is_main_service": 0,
+  "modified": "2026-10-27 14:10:36.169102",
+  "name": "Elderly Care & Daily Living Support",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Daily Support Grounded in Dignity and Self-Determination</strong></p><p>We provide compassionate daily assistance with essential living activities, including personal care, hygiene, and safe mobility. Guided by core principles of human dignity and self-determination, we ensure that seniors receive respectful support while retaining control over their personal daily lives. </p><p><strong>2. Promoting Active Independence &amp; Privacy</strong></p><p>Applying active care principles, we encourage seniors to do as much as they safely can for themselves—assisting only where needed to foster true independence. We manage balanced nutrition and safe physical routines while strictly upholding personal privacy and individual preferences. </p><p><strong>3. A Safe Home Environment with Family Peace of Mind</strong></p><p>We ensure maximum household safety by preventing fall risks and maintaining structured, reliable daily routines. Integrated with our continuous supervision protocol, we give families complete confidence and peace of mind knowing their parents are cared for with certified precision and genuine heart. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Daily Support Grounded in Dignity and Self-Determination",
+    "feature_ar": "Daily Support Grounded in Dignity and Self-Determination",
+    "feature_ar_link": "الدعم اليومي مبني على الكرامة وتقرير المصير",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Promoting Active Independence & Privacy",
+    "feature_ar": "Promoting Active Independence & Privacy",
+    "feature_ar_link": "تعزيز الاستقلالية النشطة والخصوصية",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "A Safe Home Environment with Family Peace of Mind",
+    "feature_ar": "A Safe Home Environment with Family Peace of Mind",
+    "feature_ar_link": "بيئة منزلية آمنة مع راحة البال للعائلة",
+    "parent": "Elderly Care & Daily Living Support",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Elderly Care & Daily Living Support",
+  "service_name_ar": "رعاية كبار السن ودعم الحياة اليومية",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Personalized Daily Support That Preserves Independence and Enhances Quality of Life.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>دعم يومي مخصص يحافظ على الاستقلالية ويعزز جودة الحياة.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. الرفقة الإنسانية الصادقة القائمة على الدمج الاجتماعي</p><p>نؤمن بأن الرعاية المتكاملة تتجاوز مجرد تقديم الخدمات الطبية الروتينية، فهي تقوم أيضًا على الدفء الإنساني والتواصل العاطفي. وانطلاقًا من المبادئ الأساسية للدمج الاجتماعي واحترام كرامة الإنسان، نوفر مرافقين متخصصين يحرصون على مشاركة كبار السن أحاديث هادفة، والاستماع إليهم بصبر واهتمام، والتخفيف من شعورهم بالوحدة، بما يعزز لديهم الشعور بالانتماء والتواصل الإنساني الحقيقي.</p><p>2. تعزيز النشاط اليومي والاستقلالية</p><p>من خلال تطبيق مبادئ الرعاية النشطة، نشجع كبار السن على المشاركة في الأنشطة التي يستمتعون بها، سواء كانت أنشطة ذهنية أو بدنية، مثل المشي والقراءة وممارسة الهوايات المفضلة. كما نحترم حقهم في اتخاذ قراراتهم بأنفسهم، ونمنحهم الحرية في تنظيم جدولهم اليومي بما يتناسب مع رغباتهم، مما يساعد على الحفاظ على استقلاليتهم، وتنشيط قدراتهم الذهنية، وتعزيز شعورهم بالسعادة والرضا الشخصي.</p><p>3. الارتقاء بجودة الحياة وتحقيق راحة البال</p><p>تعكس هذه الخدمة فلسفتنا الأساسية في الارتقاء بجودة الحياة اليومية لكبار السن الذين لا يحتاجون إلى رعاية طبية معقدة. فمن خلال احترام روتينهم اليومي وخصوصيتهم وتفضيلاتهم الشخصية، نحرص على توفير بيئة آمنة وإيجابية تمنحهم الراحة والطمأنينة. كما نمنح أسرهم راحة البال والثقة بأن أحبّاءهم يحظون بالرعاية والاهتمام اللازمين، ويعيشون حياة يومية أكثر سعادة ورضا.</p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Genuine Human Companionship Grounded in Social Inclusion",
+    "feature_ar": "Genuine Human Companionship Grounded in Social Inclusion",
+    "feature_ar_link": "الصحبة البشرية الحقيقية القائمة على الشمول الاجتماعي",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Elevating Overall Quality of Life with Peace of Mind",
+    "feature_ar": "Elevating Overall Quality of Life with Peace of Mind",
+    "feature_ar_link": "رفع جودة الحياة بشكل عام مع راحة البال",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Daily Living & Independence",
+    "feature_ar": "Active Daily Living & Independence",
+    "feature_ar_link": "الحياة اليومية النشطة والاستقلالية",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": "",
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "360°-active-living &companionship",
+  "image_ar": "/files/360° Active Living  Companionship.jpg",
+  "image_en": "/files/360° Active Living  Companionship.jpg",
+  "is_main_service": 1,
+  "modified": "2026-11-02 09:44:11.400357",
+  "name": "360° Active Living & Companionship",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Genuine Human Companionship Grounded in Social Inclusion</strong></p><p>We believe that standard care goes beyond medical routines—it thrives on warmth and emotional connection. Guided by core principles of social inclusion and human dignity, we provide dedicated companions who share meaningful conversations, listen with patience, and eliminate feelings of loneliness, creating a true sense of belonging. </p><p><strong>2. Active Daily Living &amp; Independence</strong></p><p>Applying active care principles, we encourage seniors to stay mentally and physically engaged in activities they truly enjoy, such as walking, reading, and hobbies. We honor their self-determination by letting them shape their daily schedule, preserving their independence, cognitive vitality, and personal joy. </p><p><strong>3. Elevating Overall Quality of Life with Peace of Mind</strong></p><p>This service embodies our core philosophy of elevating the overall quality of daily life for seniors who do not require complex medical care. By respecting personal routines, privacy, and preferences, we create a safe, uplifting environment that gives families complete peace of mind knowing their loved ones are thriving. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Genuine Human Companionship Grounded in Social Inclusion",
+    "feature_ar": "Genuine Human Companionship Grounded in Social Inclusion",
+    "feature_ar_link": "الصحبة البشرية الحقيقية القائمة على الشمول الاجتماعي",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Daily Living & Independence",
+    "feature_ar": "Active Daily Living & Independence",
+    "feature_ar_link": "الحياة اليومية النشطة والاستقلالية",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Elevating Overall Quality of Life with Peace of Mind",
+    "feature_ar": "Elevating Overall Quality of Life with Peace of Mind",
+    "feature_ar_link": "رفع جودة الحياة بشكل عام مع راحة البال",
+    "parent": "360° Active Living & Companionship",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "360° Active Living & Companionship",
+  "service_name_ar": "العيش النشط والرفقة بزاوية ٣٦٠°",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Dedicated human companionship and daily social engagement for seniors without complex medical needs. Defines our core philosophy of elevating overall quality of life across all our services.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>الرفقة الإنسانية المخلصة والتفاعل الاجتماعي اليومي لكبار السن الذين لا يحتاجون إلى رعاية طبية معقدة. هذا يُحدد فلسفتنا الأساسية في رفع جودة الحياة بشكل عام عبر جميع خدماتنا.</p></div>"
  }
 ]

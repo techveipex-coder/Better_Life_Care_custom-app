@@ -1,0 +1,16 @@
+[
+ {
+  "ar_mission_description": "<div class=\"ql-editor read-mode\"><p>في بيتر لايف كير، مهمتنا هي تقديم رعاية متعاطفة وشخصية تجلب الراحة والكرامة والثقة في الحياة اليومية. </p><p>مسترشدين بالمعايير الألمانية للجودة والسلامة والموثوقية، نعتني بكل شخص بالدفء والاحترام والانتباه الذي نود أن نقدمه لعائلتنا نفسها.</p></div>",
+  "ar_mission_title": "لنجعل كل يوم أفضل للأشخاص الذين نهتم لأمرهم.",
+  "ar_vission_description": "<div class=\"ql-editor read-mode\"><p>نحن نتخيل \"بيتر لايف كير\" كاسم يمكن للعائلات الوثوق به، مكان تلتقي فيه المعايير الألمانية مع الرعاية الإنسانية الحقيقية، حيث يشعر كل شخص بالأمان والاحترام والتقدير والدعم ليعيش حياته بأقصى قدر من الاكتفاء والاستقلالية.</p></div>",
+  "ar_vission_title": "لخلق مستقبل حيث تعني الرعاية الاستثنائية جودة حياة استثنائية.",
+  "description": "<div class=\"ql-editor read-mode\"><p><span style=\"color: rgb(31, 31, 31);\">At </span><strong style=\"color: rgb(31, 31, 31);\">Better Life Care</strong><span style=\"color: rgb(31, 31, 31);\">, our mission is to provide compassionate, personalized care that brings comfort, dignity, and confidence to everyday life. </span></p><p><span style=\"color: rgb(31, 31, 31);\">Guided by German standards of quality, safety, and reliability, we care for each person with the warmth, respect, and attention we would want for our own family. </span></p></div>",
+  "docstatus": 0,
+  "doctype": "Mission-Vision-BLC",
+  "modified": "2026-10-20 12:29:14.886714",
+  "name": "To make every day better for the people we care for.",
+  "title": "To make every day better for the people we care for.",
+  "vission_description": "<div class=\"ql-editor read-mode\"><p><span style=\"color: rgb(31, 31, 31);\">We envision </span><strong style=\"color: rgb(31, 31, 31);\">Better Life Care</strong><span style=\"color: rgb(31, 31, 31);\"> as a name families can trust a place where German standards meet genuine human care, and where every person feels safe, respected, valued, and supported to live life as fully and independently as possible. </span></p></div>",
+  "vission_title": "To create a future where exceptional care means exceptional quality of life."
+ }
+]

@@ -258,6 +258,10 @@ fixtures = [
     {"dt": "Testimonial"},
     {"dt": "Website Info"},
     {"dt": "Social Platforms"},
+    {"dt": "BLC consultant Info"},
     {"dt": "BLC-Contact-us Info"},
     {"dt": "Contact-us BLC Form"},
+    {"dt": "Mission-Vision-BLC"},
+    {"dt": "Service Feature"},
+    {"dt": "Media for Website"},
 ]

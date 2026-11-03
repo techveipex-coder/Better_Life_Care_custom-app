@@ -2,10 +2,19 @@
  {
   "docstatus": 0,
   "doctype": "Social Platforms",
-  "modified": "2026-10-14 14:51:40.213200",
+  "modified": "2026-11-03 11:06:32.067566",
   "name": "Facebook Test",
-  "platform_icon": "/files/facebook-brands-solid-full.svg",
+  "platform_icon": "/files/facebookIcon.png",
   "platform_name": "Facebook Test",
-  "platform_url": "https://www.facebook.com/"
+  "platform_url": "https://www.facebook.com/profile.php?id=61595667327703"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Social Platforms",
+  "modified": "2026-10-22 09:19:05.550097",
+  "name": "Instagram",
+  "platform_icon": "/files/instagram‭ icon.png",
+  "platform_name": "Instagram",
+  "platform_url": "https://www.instagram.com/better_life_care_eg?xtok=bWpodXFjNXYxYXVj"
  }
 ]

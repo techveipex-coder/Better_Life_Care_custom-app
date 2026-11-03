@@ -1,0 +1,122 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "رعاية متعاطفة مبنية على كرامة الإنسان",
+  "features_en": "Compassionate Care Grounded in Human Dignity",
+  "modified": "2026-10-20 16:16:34.238231",
+  "name": "Compassionate Care Grounded in Human Dignity"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "التحفيز العقلي والاندماج الاجتماعي النشط",
+  "features_en": "Cognitive Stimulation & Active Social Inclusion",
+  "modified": "2026-10-20 16:17:07.322842",
+  "name": "Cognitive Stimulation & Active Social Inclusion"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "روتينات منظمة ورعاية تحت إشراف الطبيب",
+  "features_en": "Structured Routines & Physician-Guided Care",
+  "modified": "2026-10-20 16:17:44.836047",
+  "name": "Structured Routines & Physician-Guided Care"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الحركة النشطة ومنع السقوط",
+  "features_en": "Active Mobility & Fall Prevention",
+  "modified": "2026-10-20 16:32:51.071483",
+  "name": "Active Mobility & Fall Prevention"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الصحبة البشرية الحقيقية القائمة على الشمول الاجتماعي",
+  "features_en": "Genuine Human Companionship Grounded in Social Inclusion",
+  "modified": "2026-10-27 13:34:24.089243",
+  "name": "Genuine Human Companionship Grounded in Social Inclusion"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "رفع جودة الحياة بشكل عام مع راحة البال",
+  "features_en": "Elevating Overall Quality of Life with Peace of Mind",
+  "modified": "2026-10-27 13:35:51.457390",
+  "name": "Elevating Overall Quality of Life with Peace of Mind"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الدعم اليومي مبني على الكرامة وتقرير المصير",
+  "features_en": "Daily Support Grounded in Dignity and Self-Determination",
+  "modified": "2026-10-27 13:52:34.564230",
+  "name": "Daily Support Grounded in Dignity and Self-Determination"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الإشراف السريري الدقيق وإدارة الأدوية",
+  "features_en": "Precise Clinical Supervision & Medication Management",
+  "modified": "2026-10-20 16:33:23.443941",
+  "name": "Precise Clinical Supervision & Medication Management"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "بروتوكولات رعاية بإشراف الأطباء ومتابعة مستمرة",
+  "features_en": "Physician-Guided Protocols & Continuous Monitoring",
+  "modified": "2026-10-22 11:39:46.004057",
+  "name": "Physician-Guided Protocols & Continuous Monitoring"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "تأهيل فعّال يجمع بين الرعاية الطبية والاهتمام الإنساني",
+  "features_en": "Active Rehabilitation with Warm Human Connection",
+  "modified": "2026-10-22 11:43:41.525790",
+  "name": "Active Rehabilitation with Warm Human Connection"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "تعزيز الاستقلالية النشطة والخصوصية",
+  "features_en": "Promoting Active Independence & Privacy",
+  "modified": "2026-10-27 13:52:58.126580",
+  "name": "Promoting Active Independence & Privacy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الحياة اليومية النشطة والاستقلالية",
+  "features_en": "Active Daily Living & Independence",
+  "modified": "2026-10-27 13:35:14.791390",
+  "name": "Active Daily Living & Independence"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "بيئة منزلية آمنة مع راحة البال للعائلة",
+  "features_en": "A Safe Home Environment with Family Peace of Mind",
+  "modified": "2026-10-27 13:53:19.997324",
+  "name": "A Safe Home Environment with Family Peace of Mind"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الحركة الكريمة والقدرة على اتخاذ القرار الذاتي",
+  "features_en": "Dignified Mobility & Empowered Self-Determination",
+  "modified": "2026-10-20 16:31:32.472049",
+  "name": "Dignified Mobility & Empowered Self-Determination"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "رعاية سريرية متقدمة ترتكز على الكرامة والخصوصية",
+  "features_en": "Advanced Clinical Care Grounded in Dignity and Privacy",
+  "modified": "2026-10-22 11:39:21.028275",
+  "name": "Advanced Clinical Care Grounded in Dignity and Privacy"
+ }
+]

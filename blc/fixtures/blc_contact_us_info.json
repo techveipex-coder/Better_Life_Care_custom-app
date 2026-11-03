@@ -1,13 +1,14 @@
 [
  {
-  "address": "40-Elzahraa",
-  "company_name": null,
+  "address": "Smouha, Street 2 , Midan 386 Al Shaker building ",
+  "company_name": "5obmo4dp1r",
   "docstatus": 0,
   "doctype": "BLC-Contact-us Info",
-  "email": "techveipex@gmail.com",
-  "modified": "2026-10-04 17:00:07.497253",
+  "email": "Info@better-lifecare.com",
+  "modified": "2026-11-03 11:11:44.505142",
   "name": "5obmo4dp1r",
-  "phone_number": "0111883387437",
+  "phone_number": "+201041166033",
+  "second_phone_number": "+201044400236",
   "timetable": [
    {
     "day": "Saturday",
@@ -18,6 +19,6 @@
     "start_time": "16:59:09"
    }
   ],
-  "whats_app_number": "010654656357"
+  "whats_app_number": "+201041166033"
  }
 ]
