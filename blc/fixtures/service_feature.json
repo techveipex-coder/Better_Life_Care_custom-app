@@ -58,6 +58,46 @@
  {
   "docstatus": 0,
   "doctype": "Service Feature",
+  "features_ar": "استعادة الحركة والكرامة في راحة المنزل",
+  "features_en": "Restoring Mobility & Dignity in the Comfort of Home",
+  "modified": "2026-11-03 14:27:47.048112",
+  "name": "Restoring Mobility & Dignity in the Comfort of Home"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
+  "features_en": "Active Rehabilitation & Fall Prevention Principles",
+  "modified": "2026-11-03 14:28:37.112653",
+  "name": "Active Rehabilitation & Fall Prevention Principles"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "دعم رحيم قائم على الكرامة والاحترام",
+  "features_en": "Compassionate Support Grounded in Dignity & Respect",
+  "modified": "2026-11-03 14:48:21.418866",
+  "name": "Compassionate Support Grounded in Dignity & Respect"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "مرافقة فعّالة وإدماج اجتماعي",
+  "features_en": "Active Companionship & Social Inclusion",
+  "modified": "2026-11-03 14:50:27.987617",
+  "name": "Active Companionship & Social Inclusion"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "رعاية متخصصة للقدم قائمة على الكرامة والراحة",
+  "features_en": "Specialized Foot Care Grounded in Dignity and Comfort",
+  "modified": "2026-11-03 15:01:05.416454",
+  "name": "Specialized Foot Care Grounded in Dignity and Comfort"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
   "features_ar": "الإشراف السريري الدقيق وإدارة الأدوية",
   "features_en": "Precise Clinical Supervision & Medication Management",
   "modified": "2026-10-20 16:33:23.443941",
@@ -90,6 +130,78 @@
  {
   "docstatus": 0,
   "doctype": "Service Feature",
+  "features_ar": "خبرة سريرية متخصصة تُنفَّذ بتعاطف",
+  "features_en": "Specialized Clinical Expertise Executed with Empathy",
+  "modified": "2026-11-03 12:22:25.945377",
+  "name": "Specialized Clinical Expertise Executed with Empathy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "مكافحة العدوى ومعايير السلامة",
+  "features_en": "Infection Control & Safety Standards",
+  "modified": "2026-11-03 12:23:04.990650",
+  "name": "Infection Control & Safety Standards"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "تعافٍ فعّال وراحة بال تامة للأسر",
+  "features_en": "Active Recovery & Absolute Peace of Mind for Families",
+  "modified": "2026-11-03 12:23:56.924543",
+  "name": "Active Recovery & Absolute Peace of Mind for Families"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "انتقال سلس وآمن من المستشفى إلى المنزل",
+  "features_en": "Seamless & Safe Transition from Hospital to Home",
+  "modified": "2026-11-03 12:42:31.000074",
+  "name": "Seamless & Safe Transition from Hospital to Home"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "التأهيل الفعّال ومبادئ الوقاية",
+  "features_en": "Active Rehabilitation & Prevention Principles",
+  "modified": "2026-11-03 12:43:25.927446",
+  "name": "Active Rehabilitation & Prevention Principles"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "متابعة سريرية دقيقة بدفء يبعث على الطمأنينة",
+  "features_en": "Rigorous Clinical Monitoring with Reassuring Warmth",
+  "modified": "2026-11-03 12:46:30.632666",
+  "name": "Rigorous Clinical Monitoring with Reassuring Warmth"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الكشف المبكر والوقاية الصحية المنظمة",
+  "features_en": "Early Detection & Structured Health Prevention",
+  "modified": "2026-11-03 14:41:11.884047",
+  "name": "Early Detection & Structured Health Prevention"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "الوقاية الطبية ومعايير يوجّهها الطبيب",
+  "features_en": "Medical Prevention & Physician-Guided Standards",
+  "modified": "2026-11-03 15:03:31.233738",
+  "name": "Medical Prevention & Physician-Guided Standards"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "حركة فعّالة وراحة بال للأسرة",
+  "features_en": "Active Mobility & Family Peace of Mind",
+  "modified": "2026-11-03 15:04:17.936316",
+  "name": "Active Mobility & Family Peace of Mind"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
   "features_ar": "الحياة اليومية النشطة والاستقلالية",
   "features_en": "Active Daily Living & Independence",
   "modified": "2026-10-27 13:35:14.791390",
@@ -98,10 +210,34 @@
  {
   "docstatus": 0,
   "doctype": "Service Feature",
-  "features_ar": "بيئة منزلية آمنة مع راحة البال للعائلة",
-  "features_en": "A Safe Home Environment with Family Peace of Mind",
-  "modified": "2026-10-27 13:53:19.997324",
-  "name": "A Safe Home Environment with Family Peace of Mind"
+  "features_ar": "تقدّم يوجّهه الطبيب وثقة للأسرة",
+  "features_en": "Physician-Guided Progress & Family Confidence",
+  "modified": "2026-11-03 14:29:52.232981",
+  "name": "Physician-Guided Progress & Family Confidence"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "استشارات طبية منزلية مريحة قائمة على الكرامة",
+  "features_en": "Convenient In-Home Medical Consultations Grounded in Dignity",
+  "modified": "2026-11-03 14:38:52.193940",
+  "name": "Convenient In-Home Medical Consultations Grounded in Dignity"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "متابعة سريرية متكاملة وراحة بال تامة للأسرة",
+  "features_en": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind",
+  "modified": "2026-11-03 14:42:58.750593",
+  "name": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "فحص واعتماد دقيق وإشراف مستمر",
+  "features_en": "Certified Vetting & Ongoing Supervision",
+  "modified": "2026-11-03 14:52:39.049617",
+  "name": "Certified Vetting & Ongoing Supervision"
  },
  {
   "docstatus": 0,
@@ -110,6 +246,14 @@
   "features_en": "Dignified Mobility & Empowered Self-Determination",
   "modified": "2026-10-20 16:31:32.472049",
   "name": "Dignified Mobility & Empowered Self-Determination"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "بيئة منزلية آمنة مع راحة البال للعائلة",
+  "features_en": "A Safe Home Environment with Family Peace of Mind",
+  "modified": "2026-10-27 13:53:19.997324",
+  "name": "A Safe Home Environment with Family Peace of Mind"
  },
  {
   "docstatus": 0,

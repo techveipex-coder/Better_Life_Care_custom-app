@@ -7,9 +7,9 @@
   "doctype": "Services BLC",
   "en_slug": "Memory & Alzheimer’s Care",
   "image_ar": null,
-  "image_en": null,
+  "image_en": "/files/Alzheimer Car.jpg",
   "is_main_service": 1,
-  "modified": "2026-10-22 14:27:20.944733",
+  "modified": "2026-11-03 15:27:09.763345",
   "name": "Memory & Alzheimer’s Care",
   "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Compassionate Care Grounded in Human Dignity</strong></p><p>Caring for individuals with Alzheimer’s and memory loss requires far more than routine assistance it demands patience, empathy, and deep emotional understanding. We strictly uphold human dignity and personal privacy, creating a calm, reassuring home environment that reduces anxiety and confusion while treating each individual with genuine warmth, honor, and respect. </p><p><strong>2. Cognitive Stimulation &amp; Active Social Inclusion</strong></p><p>We implement active care principles, focusing on preserving and stimulating remaining cognitive abilities rather than creating dependency. Our team incorporates tailored memory exercises, engaging brain games, and sensory activities designed to slow cognitive decline. By encouraging daily social inclusion and meaningful interactions, we help your loved ones stay mentally active and emotionally connected. </p><p><strong>3. Structured Routines &amp; Physician-Guided Care</strong></p><p>We offer families absolute peace of mind through structured daily routines that promote familiarity and comfort. Executed in full alignment with the treating physician’s orders and care plan, we ensure strict medication management and vital signs tracking. Supported by our ongoing quality and safety supervision, we strike the perfect balance between household safety and personal freedom. </p></div>",
   "service_feature": [
@@ -76,9 +76,9 @@
   "doctype": "Services BLC",
   "en_slug": "Parkinson’s & Neurological Care",
   "image_ar": null,
-  "image_en": null,
+  "image_en": "/files/Neurological Care.jpg",
   "is_main_service": 1,
-  "modified": "2026-10-22 14:27:09.058205",
+  "modified": "2026-11-03 15:30:23.303603",
   "name": "Parkinson’s & Neurological Care",
   "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Dignified Mobility &amp; Empowered Self-Determination</strong></p><p>We understand the emotional and physical frustration caused by Parkinson’s and neurological conditions. Guided by the core principles of self-determination and human dignity, we assist your loved ones with mobility and daily tasks without stripping away their independence, ensuring they feel confident, respected, and deeply valued. </p><p><strong>2. Active Mobility &amp; Fall Prevention</strong></p><p>Applying active care and prevention frameworks, we focus on safe movement, balance exercises, and proactive fall prevention. We encourage safe physical engagement to preserve existing motor functions and prevent stiffness, helping your loved one maintain maximum mobility within a warm and encouraging environment. </p><p><strong>3. Precise Clinical Supervision &amp; Medication Management</strong></p><p>Managing neurological conditions demands absolute precision with medication schedules. Executed in full alignment with the treating physician’s orders and prescribed care plan, we guarantee timely medication administration and continuous tracking of physical changes. Supported by our quality and safety supervision, this blend of clinical accuracy and human warmth gives families complete confidence and peace of mind. </p></div>",
   "service_feature": [
@@ -214,9 +214,9 @@
   "doctype": "Services BLC",
   "en_slug": "elderly-care & daily-living-support",
   "image_ar": null,
-  "image_en": null,
+  "image_en": "/files/Elderly Care & Daily Living Support.jpg",
   "is_main_service": 0,
-  "modified": "2026-10-27 14:10:36.169102",
+  "modified": "2026-11-03 15:28:11.157089",
   "name": "Elderly Care & Daily Living Support",
   "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Daily Support Grounded in Dignity and Self-Determination</strong></p><p>We provide compassionate daily assistance with essential living activities, including personal care, hygiene, and safe mobility. Guided by core principles of human dignity and self-determination, we ensure that seniors receive respectful support while retaining control over their personal daily lives. </p><p><strong>2. Promoting Active Independence &amp; Privacy</strong></p><p>Applying active care principles, we encourage seniors to do as much as they safely can for themselves—assisting only where needed to foster true independence. We manage balanced nutrition and safe physical routines while strictly upholding personal privacy and individual preferences. </p><p><strong>3. A Safe Home Environment with Family Peace of Mind</strong></p><p>We ensure maximum household safety by preventing fall risks and maintaining structured, reliable daily routines. Integrated with our continuous supervision protocol, we give families complete confidence and peace of mind knowing their parents are cared for with certified precision and genuine heart. </p></div>",
   "service_feature": [
@@ -249,6 +249,351 @@
   "service_name_ar": "رعاية كبار السن ودعم الحياة اليومية",
   "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Personalized Daily Support That Preserves Independence and Enhances Quality of Life.</p></div>",
   "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>دعم يومي مخصص يحافظ على الاستقلالية ويعزز جودة الحياة.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. انتقال سلس وآمن من المستشفى إلى المنزل</h3><p class=\"ql-direction-rtl\">يتطلب التعافي بعد الخروج من المستشفى، أو التعايش مع الحالات المزمنة، دعمًا منزليًا دقيقًا للوقاية من المضاعفات أو معاودة دخول المستشفى. ونُنفّذ خدماتنا بما يتوافق تمامًا مع تقرير خروج الطبيب المعالج وتعليمات الرعاية، ونلتزم التزامًا صارمًا بالحفاظ على كرامة الإنسان وسلامته، من خلال وضع خطط تعافٍ منظمة تمنح منزلكم راحة تامة وثقة سريرية.</p><h3 class=\"ql-direction-rtl\">٢. التأهيل الفعّال ومبادئ الوقاية</h3><p class=\"ql-direction-rtl\">نركّز، من خلال تطبيق أطر الرعاية الفعّالة والوقاية، على الحفاظ على القدرات البدنية وتشجيع التعافي التدريجي. ونتولى إدارة جداول الأدوية المعقدة، ودعم الأنظمة الغذائية الموصوفة، وتعزيز الحركة اليومية الآمنة وفق مبادئ الرعاية الفعّالة، وذلك لمنع تدهور الحالة الصحية واستعادة الاستقلالية الشخصية بالتنسيق مع الفريق الطبي.</p><h3 class=\"ql-direction-rtl\">٣. متابعة سريرية دقيقة بدفء يبعث على الطمأنينة</h3><p class=\"ql-direction-rtl\">نمنح الأسر راحة بال تامة من خلال متابعة سريرية منظمة ورقابة مستمرة. ويجمع فريق التمريض المعتمد لدينا بين الدقة السريرية والدعم العاطفي الصادق، حيث يتابع المؤشرات الحيوية باستمرار وينسّق مباشرة مع الأطباء المعالجين لضمان رحلة تعافٍ آمنة ومريحة.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Seamless & Safe Transition from Hospital to Home",
+    "feature_ar": "Seamless & Safe Transition from Hospital to Home",
+    "feature_ar_link": "انتقال سلس وآمن من المستشفى إلى المنزل",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Rigorous Clinical Monitoring with Reassuring Warmth",
+    "feature_ar": "Rigorous Clinical Monitoring with Reassuring Warmth",
+    "feature_ar_link": "متابعة سريرية دقيقة بدفء يبعث على الطمأنينة",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "post-hospitala-and-chronic-care",
+  "image_ar": null,
+  "image_en": "/files/Post-Hospital & Chronic Care.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:31:07.418918",
+  "name": "Post-Hospital & Chronic Care",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Seamless &amp; Safe Transition from Hospital to Home</strong></p><p>Recovering after a hospital discharge or managing chronic conditions requires precise home support to prevent complications or readmissions. Executed in full alignment with the treating physician’s discharge report and care instructions, we strictly uphold human dignity and safety, creating structured recovery plans that bring complete comfort and clinical confidence directly to your home. </p><p><strong>2. Active Rehabilitation &amp; Prevention Principles</strong></p><p>Applying active care and prevention frameworks, we focus on preserving physical abilities and encouraging gradual recovery. We manage complex medication schedules, support prescribed dietary plans, and promote safe daily movement under active care principles to prevent health decline and restore personal independence in coordination with the medical team. </p><p><strong>3. Rigorous Clinical Monitoring with Reassuring Warmth</strong></p><p>We provide families with total peace of mind through structured clinical monitoring and continuous oversight. Our certified nursing team combines clinical precision with genuine emotional support, continuously tracking vital indicators and coordinating directly with treating physicians to ensure a safe, comfortable recovery journey. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Seamless & Safe Transition from Hospital to Home",
+    "feature_ar": "Seamless & Safe Transition from Hospital to Home",
+    "feature_ar_link": "انتقال سلس وآمن من المستشفى إلى المنزل",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Rigorous Clinical Monitoring with Reassuring Warmth",
+    "feature_ar": "Rigorous Clinical Monitoring with Reassuring Warmth",
+    "feature_ar_link": "متابعة سريرية دقيقة بدفء يبعث على الطمأنينة",
+    "parent": "Post-Hospital & Chronic Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Post-Hospital & Chronic Care",
+  "service_name_ar": "العناية بعد المستشفى والعناية المزمنة",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Skilled nurses and caregivers who help patients recover safely after hospital stays and manage chronic conditions with confidence, in full alignment with the treating physician’s plan.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>ممرضون ومقدمو رعاية ماهرون يساعدون المرضى على التعافي بأمان بعد إقاماتهم في المستشفى ويديرون الحالات المزمنة بثقة، بما يتماشى تمامًا مع خطة الطبيب المعالج.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. استعادة الحركة والكرامة في راحة المنزل</h3><p class=\"ql-direction-rtl\">نساعد أحباءكم على استعادة قوتهم البدنية وقدرتهم على الحركة بعد الإصابات أو العمليات الجراحية أو الأحداث العصبية، وكل ذلك في بيئة المنزل المطمئنة. ونُنفّذ خدماتنا بما يتوافق تمامًا مع أوامر الطبيب المعالج وتقاريره الطبية، ونضع أهدافًا تأهيلية مخصصة تراعي راحة كل فرد ووتيرته، مع الحفاظ على كرامة الإنسان.</p><h3 class=\"ql-direction-rtl\">٢. التأهيل الفعّال ومبادئ الوقاية من السقوط</h3><p class=\"ql-direction-rtl\">نركّز في فريق العلاج الطبيعي لدينا، من خلال تطبيق أطر الرعاية الفعّالة والوقاية، على تقوية العضلات وتحسين التوازن والوقاية من السقوط. ومن خلال مبادئ الرعاية الفعّالة، نحفّز المرضى بلطف على أداء الحركات البدنية اليومية الآمنة وفق خطة التأهيل الموصوفة لهم، مما يبني لديهم المرونة البدنية والثقة بالنفس.</p><h3 class=\"ql-direction-rtl\">٣. تقدّم يوجّهه الطبيب وثقة للأسرة</h3><p class=\"ql-direction-rtl\">نضمن تقدمًا آمنًا وقابلًا للقياس من خلال إشراف منظم على جلسات العلاج وتقييمات دورية. ومن خلال تعديل خطط الرعاية باستمرار بالتنسيق مع الأطباء المعالجين لتعكس التحسن الفعلي في الحركة، نمنح الأسر راحة بال تامة بأن أحباءهم يستعيدون استقلاليتهم بأمان.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Progress & Family Confidence",
+    "feature_ar": "Physician-Guided Progress & Family Confidence",
+    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "In-home-rehab-and-physical-therapy",
+  "image_ar": null,
+  "image_en": "/files/In-Home Rehab & Physical Therapy.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:32:21.170084",
+  "name": "In-Home Rehab & Physical Therapy",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Restoring Mobility &amp; Dignity in the Comfort of Home</strong></p><p>We assist your loved ones in regaining their physical strength and mobility following injuries, surgeries, or neurological events—all within the reassuring environment of home. Executed in full alignment with the treating physician’s orders and medical reports, we establish tailored rehab goals that respect each individual's comfort and pace while upholding human dignity. </p><p><strong>2. Active Rehabilitation &amp; Fall Prevention Principles</strong></p><p>Applying active care and prevention frameworks, our physical therapy team focuses on muscle strengthening, balance enhancement, and fall prevention. Through active care principles, we gently motivate clients to engage in safe daily physical movements according to their prescribed rehab plan, building both physical resilience and personal confidence. </p><p><strong>3. Physician-Guided Progress &amp; Family Confidence</strong></p><p>We guarantee safe, measurable progress through structured therapy supervision and regular evaluations. By continuously adapting care plans in coordination with treating physicians to reflect real mobility gains, we provide families with complete peace of mind knowing their loved ones are safely regaining their independence.</p></div>",
+  "service_feature": [
+   {
+    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Progress & Family Confidence",
+    "feature_ar": "Physician-Guided Progress & Family Confidence",
+    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "In-Home Rehab & Physical Therapy",
+  "service_name_ar": "إعادة التأهيل والعلاج الطبيعي في المنزل",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Structured therapy sessions after surgery, injury, or illness, designed to restore movement safely and build confidence, in coordination with the treating physician.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>جلسات علاجية منظّمة بعد الجراحة أو الإصابة أو المرض، مصممة لاستعادة الحركة بأمان وبناء الثقة، بالتنسيق مع الطبيب المعالج.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. استشارات طبية منزلية مريحة قائمة على الكرامة</h3><p class=\"ql-direction-rtl\">من خلال شبكتنا الموثوقة من الشركاء في القطاع الصحي، نيسّر زيارات الأطباء المتخصصين وخدمات التشخيص المنزلية، لنجنّب أحباءكم عناء السفر والانتظار في المنشآت الطبية. ونلتزم التزامًا صارمًا بالحفاظ على كرامة الإنسان وخصوصيته الشخصية، لضمان أن تكون جميع الزيارات المنزلية وإجراءات التشخيص مريحة ومحترمة وتُنفَّذ وفق المعايير الطبية المهنية.</p><h3 class=\"ql-direction-rtl\">٢. الكشف المبكر والوقاية الصحية المنظمة</h3><p class=\"ql-direction-rtl\">انطلاقًا من مبادئ الوقاية الفعّالة والسلامة الصحية، تتيح عمليات سحب عينات الدم المنزلية الدورية والفحوصات التشخيصية الكشف المبكر والإدارة الفعّالة للأمراض المزمنة. ونُنفّذ ذلك بما يتوافق تمامًا مع أوامر الطبيب المعالج، ونُيسّر جميع المواعيد والتقارير التشخيصية للحفاظ على متابعة صحية واضحة واستباقية من قلب منزلكم.</p><h3 class=\"ql-direction-rtl\">٣. متابعة سريرية متكاملة وراحة بال تامة للأسرة</h3><p class=\"ql-direction-rtl\">ينسّق فريق الرعاية لدينا بسلاسة مع الأطباء الزائرين والمعالجين لدمج التعليمات الطبية مباشرة في روتين الرعاية الشخصي لمريضكم. وفي ظل إطار الإشراف المستمر على الجودة، نوفّر للأسر شفافية كاملة وراحة بال تامة بأن صحة أحبائهم في أيدٍ كفؤة ومنسّقة.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Convenient In-Home Medical Consultations Grounded in Dignity",
+    "feature_ar": "Convenient In-Home Medical Consultations Grounded in Dignity",
+    "feature_ar_link": "استشارات طبية منزلية مريحة قائمة على الكرامة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Early Detection & Structured Health Prevention",
+    "feature_ar": "Early Detection & Structured Health Prevention",
+    "feature_ar_link": "الكشف المبكر والوقاية الصحية المنظمة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind",
+    "feature_ar": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind",
+    "feature_ar_link": "متابعة سريرية متكاملة وراحة بال تامة للأسرة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "home-diagnostics-and-doctor-visits",
+  "image_ar": null,
+  "image_en": "/files/Home Diagnostics & Doctor Visits.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:28:52.741175",
+  "name": "Home Diagnostics & Doctor Visits",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Convenient In-Home Medical Consultations Grounded in Dignity</strong></p><p>Through our trusted network of healthcare partners, we facilitate specialized doctor visits and home diagnostic services, saving your loved ones the physical stress of traveling and waiting at clinical facilities. We strictly uphold human dignity and personal privacy, ensuring all home visits and diagnostic procedures are comfortable, respectful, and conducted under professional medical standards. </p><p><strong>2. Early Detection &amp; Structured Health Prevention</strong></p><p>Emphasizing active prevention and health safety principles, routine home blood sampling and diagnostic checks enable early detection and effective chronic disease management. Executed in full alignment with the treating physician’s orders, we streamline all scheduling and diagnostic reports to maintain clear, proactive healthcare tracking right from the living room. </p><p><strong>3. Integrated Clinical Follow-Up &amp; Absolute Family Peace of Mind</strong></p><p>Our care team coordinates seamlessly with visiting and treating physicians to incorporate medical instructions directly into your loved one’s personalized care routine. Managed under our continuous quality supervision framework, we offer families total transparency and complete peace of mind knowing their health is in capable, coordinated hands. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Convenient In-Home Medical Consultations Grounded in Dignity",
+    "feature_ar": "Convenient In-Home Medical Consultations Grounded in Dignity",
+    "feature_ar_link": "استشارات طبية منزلية مريحة قائمة على الكرامة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Early Detection & Structured Health Prevention",
+    "feature_ar": "Early Detection & Structured Health Prevention",
+    "feature_ar_link": "الكشف المبكر والوقاية الصحية المنظمة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind",
+    "feature_ar": "Integrated Clinical Follow-Up & Absolute Family Peace of Mind",
+    "feature_ar_link": "متابعة سريرية متكاملة وراحة بال تامة للأسرة",
+    "parent": "Home Diagnostics & Doctor Visits",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Home Diagnostics & Doctor Visits",
+  "service_name_ar": "التشخيصات المنزلية وزيارات الطبيب",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Physician visits and home diagnostics coordinated with your care team, giving families fast, reliable medical assessment in a comfortable and private setting.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>زيارات الأطباء والفحوصات المنزلية منسقة مع فريق الرعاية الخاص بك، مما يوفر للعائلات تقييمًا طبيًا سريعًا وموثوقًا في بيئة مريحة وخاصة.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. دعم رحيم قائم على الكرامة والاحترام</h3><p class=\"ql-direction-rtl\">نوفّر مقدّمي رعاية ومرافقين مدرَّبين لمساعدة المرضى في روتينهم اليومي، مع التركيز على التواصل العاطفي والتعاطف الإنساني. وانطلاقًا من مبادئ أساسية تقوم على كرامة الإنسان وحقه في تقرير مصيره، يبني مرافقونا علاقات دافئة ومحترمة تجعل المستفيدين من الخدمة يشعرون بالتقدير والاحترام وأن صوتهم مسموع.</p><h3 class=\"ql-direction-rtl\">٢. مرافقة فعّالة وإدماج اجتماعي</h3><p class=\"ql-direction-rtl\">من خلال تطبيق مبادئ الرعاية الفعّالة والإدماج الاجتماعي، يشرك مقدّمو الرعاية لدينا كبار السن في أنشطة خفيفة، والمشي الآمن، والأحاديث ذات المعنى. ونُمكّن المستفيدين من الحفاظ على روتينهم بشكل مستقل كلما أمكن، مع الالتزام الصارم باحترام الخصوصية الشخصية وحدود الأسرة.</p><h3 class=\"ql-direction-rtl\">٣. فحص واعتماد دقيق وإشراف مستمر</h3><p class=\"ql-direction-rtl\">يعمل كل مقدّم رعاية وفق بروتوكولاتنا المستمرة للإشراف على الجودة والسلامة. ونمنح الأسر راحة بال تامة، إذ نضمن أن أحباءهم برفقة محترفين جديرين بالثقة، ذوي مهارة، ويهتمون بهم اهتمامًا صادقًا.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Compassionate Support Grounded in Dignity & Respect",
+    "feature_ar": "Compassionate Support Grounded in Dignity & Respect",
+    "feature_ar_link": "دعم رحيم قائم على الكرامة والاحترام",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Companionship & Social Inclusion",
+    "feature_ar": "Active Companionship & Social Inclusion",
+    "feature_ar_link": "مرافقة فعّالة وإدماج اجتماعي",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Certified Vetting & Ongoing Supervision",
+    "feature_ar": "Certified Vetting & Ongoing Supervision",
+    "feature_ar_link": "فحص واعتماد دقيق وإشراف مستمر",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "caregiver-and-companion-services",
+  "image_ar": null,
+  "image_en": null,
+  "is_main_service": 0,
+  "modified": "2026-11-03 14:53:45.070361",
+  "name": "Caregiver & Companion Services",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Compassionate Support Grounded in Dignity &amp; Respect</strong></p><p>We provide dedicated caregivers and companions trained to assist with daily routines while focusing on emotional connection and human empathy. Guided by core principles of human dignity and self-determination, our companions build warm, respectful relationships that make clients feel valued, honored, and heard. </p><p><strong>2. Active Companionship &amp; Social Inclusion</strong></p><p>Applying active care and social inclusion principles, our caregivers engage seniors in light activities, safe walking, and meaningful conversations. We empower clients to maintain their routine independently whenever possible, while ensuring strict respect for personal privacy and family boundaries. </p><p><strong>3. Certified Vetting &amp; Ongoing Supervision</strong></p><p>Every caregiver operates under our continuous quality and safety supervision protocols. We deliver complete peace of mind to families, guaranteeing that their loved ones are accompanied by trustworthy, skilled, and genuinely caring professionals. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Compassionate Support Grounded in Dignity & Respect",
+    "feature_ar": "Compassionate Support Grounded in Dignity & Respect",
+    "feature_ar_link": "دعم رحيم قائم على الكرامة والاحترام",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Companionship & Social Inclusion",
+    "feature_ar": "Active Companionship & Social Inclusion",
+    "feature_ar_link": "مرافقة فعّالة وإدماج اجتماعي",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Certified Vetting & Ongoing Supervision",
+    "feature_ar": "Certified Vetting & Ongoing Supervision",
+    "feature_ar_link": "فحص واعتماد دقيق وإشراف مستمر",
+    "parent": "Caregiver & Companion Services",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Caregiver & Companion Services",
+  "service_name_ar": "خدمات الرعاية والمرافقة",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Dependable caregivers and companions providing day and night support, from personal hygiene and mobility help to conversation and shared activities, with respect for each person’s dignity.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>مقدمو الرعاية والرفاق الموثوقون الذين يقدمون الدعم نهارًا وليلًا، من المساعدة في النظافة الشخصية والحركة إلى المحادثة والأنشطة المشتركة، مع احترام كرامة كل شخص.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. رعاية متخصصة للقدم قائمة على الكرامة والراحة</h3><p class=\"ql-direction-rtl\">تُعدّ صحة القدم أساسية للحركة والراحة اليومية، خصوصًا لكبار السن والمصابين بالسكري. ونلتزم التزامًا صارمًا بالحفاظ على كرامة الإنسان وخصوصيته الشخصية، ونقدّم روتين عناية بالقدم لطيفًا ومتخصصًا للغاية، بأعلى درجات المهنية والتعاطف اللطيف والاحترام.</p><h3 class=\"ql-direction-rtl\">٢. الوقاية الطبية ومعايير يوجّهها الطبيب</h3><p class=\"ql-direction-rtl\">انطلاقًا من مبادئ الوقاية الصحية الفعّالة والحماية، تركّز خدمتنا على الاكتشاف المبكر لمخاطر القدم السكري ونقاط الضغط ومشكلات الدورة الدموية والعناية بها، وتُنفَّذ بما يتوافق تمامًا مع أوامر الطبيب المعالج وتقاريره الطبية. ومن خلال استخدام أدوات عناية القدم المعقّمة بدقة والمخصصة للاستخدام الواحد، نضمن أقصى درجات السلامة السريرية والنظافة.</p><h3 class=\"ql-direction-rtl\">٣. حركة فعّالة وراحة بال للأسرة</h3><p class=\"ql-direction-rtl\">من خلال تخفيف الألم والانزعاج ودمج مبادئ الرعاية الفعّالة، نساعد أحباءكم على المشي بثقة والحفاظ على استقلاليتهم البدنية اليومية بما ينسجم مع خطتهم العلاجية. وبدعم من الإشراف المستمر على الجودة والسلامة، تنال الأسر اطمئنانًا كاملًا بأن أحباءها يتلقون رعاية استثنائية ورحيمة.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Specialized Foot Care Grounded in Dignity and Comfort",
+    "feature_ar": "Specialized Foot Care Grounded in Dignity and Comfort",
+    "feature_ar_link": "رعاية متخصصة للقدم قائمة على الكرامة والراحة",
+    "parent": "Advanced Foot Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Medical Prevention & Physician-Guided Standards",
+    "feature_ar": "Medical Prevention & Physician-Guided Standards",
+    "feature_ar_link": "الوقاية الطبية ومعايير يوجّهها الطبيب",
+    "parent": "Advanced Foot Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Mobility & Family Peace of Mind",
+    "feature_ar": "Active Mobility & Family Peace of Mind",
+    "feature_ar_link": "حركة فعّالة وراحة بال للأسرة",
+    "parent": "Advanced Foot Care",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "advanced-foot-care",
+  "image_ar": null,
+  "image_en": "/files/Advanced Foot Care.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:21:39.284936",
+  "name": "Advanced Foot Care",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Specialized Foot Care Grounded in Dignity and Comfort</strong></p><p>Proper foot health is essential for mobility and daily comfort, particularly for seniors and individuals with diabetes. We strictly uphold human dignity and personal privacy, providing gentle, highly specialized foot care routines with utmost professionalism, gentle empathy, and respect. </p><p><strong>2. Medical Prevention &amp; Physician-Guided Standards</strong></p><p>Emphasizing active health prevention and protection, our service focuses on early identification and care for diabetic foot risks, pressure points, and circulation issues—executed in full alignment with the treating physician’s orders and medical reports. Using strictly sterilized, single-use podiatry instruments, we guarantee maximum clinical safety and hygiene. </p><p><strong>3. Active Mobility &amp; Family Peace of Mind</strong></p><p>By relieving discomfort and integrating active care principles, we help your loved ones walk confidently and maintain their daily physical independence in harmony with their medical care plan. Supported by our ongoing quality and safety supervision, families gain full reassurance that their loved ones are receiving exceptional, compassionate care. </p></div>",
+  "service_feature": [
+   {
+    "feature": "Specialized Foot Care Grounded in Dignity and Comfort",
+    "feature_ar": "Specialized Foot Care Grounded in Dignity and Comfort",
+    "feature_ar_link": "رعاية متخصصة للقدم قائمة على الكرامة والراحة",
+    "parent": "Advanced Foot Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Medical Prevention & Physician-Guided Standards",
+    "feature_ar": "Medical Prevention & Physician-Guided Standards",
+    "feature_ar_link": "الوقاية الطبية ومعايير يوجّهها الطبيب",
+    "parent": "Advanced Foot Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Mobility & Family Peace of Mind",
+    "feature_ar": "Active Mobility & Family Peace of Mind",
+    "feature_ar_link": "حركة فعّالة وراحة بال للأسرة",
+    "parent": "Advanced Foot Care",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Advanced Foot Care",
+  "service_name_ar": "العناية المتقدمة بالقدم",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Clinical foot care for seniors and patients with diabetes or limited mobility, helping prevent complications and keep every step safe and comfortable.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>العناية الطبية بالقدم لكبار السن وللمرضى المصابين بالسكري أو محدودي الحركة، تساعد في الوقاية من المضاعفات والحفاظ على كل خطوة آمنة ومريحة.</p></div>"
  },
  {
   "ar_service_description": "<div class=\"ql-editor read-mode\"><p>1. الرفقة الإنسانية الصادقة القائمة على الدمج الاجتماعي</p><p>نؤمن بأن الرعاية المتكاملة تتجاوز مجرد تقديم الخدمات الطبية الروتينية، فهي تقوم أيضًا على الدفء الإنساني والتواصل العاطفي. وانطلاقًا من المبادئ الأساسية للدمج الاجتماعي واحترام كرامة الإنسان، نوفر مرافقين متخصصين يحرصون على مشاركة كبار السن أحاديث هادفة، والاستماع إليهم بصبر واهتمام، والتخفيف من شعورهم بالوحدة، بما يعزز لديهم الشعور بالانتماء والتواصل الإنساني الحقيقي.</p><p>2. تعزيز النشاط اليومي والاستقلالية</p><p>من خلال تطبيق مبادئ الرعاية النشطة، نشجع كبار السن على المشاركة في الأنشطة التي يستمتعون بها، سواء كانت أنشطة ذهنية أو بدنية، مثل المشي والقراءة وممارسة الهوايات المفضلة. كما نحترم حقهم في اتخاذ قراراتهم بأنفسهم، ونمنحهم الحرية في تنظيم جدولهم اليومي بما يتناسب مع رغباتهم، مما يساعد على الحفاظ على استقلاليتهم، وتنشيط قدراتهم الذهنية، وتعزيز شعورهم بالسعادة والرضا الشخصي.</p><p>3. الارتقاء بجودة الحياة وتحقيق راحة البال</p><p>تعكس هذه الخدمة فلسفتنا الأساسية في الارتقاء بجودة الحياة اليومية لكبار السن الذين لا يحتاجون إلى رعاية طبية معقدة. فمن خلال احترام روتينهم اليومي وخصوصيتهم وتفضيلاتهم الشخصية، نحرص على توفير بيئة آمنة وإيجابية تمنحهم الراحة والطمأنينة. كما نمنح أسرهم راحة البال والثقة بأن أحبّاءهم يحظون بالرعاية والاهتمام اللازمين، ويعيشون حياة يومية أكثر سعادة ورضا.</p></div>",
@@ -318,5 +663,74 @@
   "service_name_ar": "العيش النشط والرفقة بزاوية ٣٦٠°",
   "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Dedicated human companionship and daily social engagement for seniors without complex medical needs. Defines our core philosophy of elevating overall quality of life across all our services.</p></div>",
   "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>الرفقة الإنسانية المخلصة والتفاعل الاجتماعي اليومي لكبار السن الذين لا يحتاجون إلى رعاية طبية معقدة. هذا يُحدد فلسفتنا الأساسية في رفع جودة الحياة بشكل عام عبر جميع خدماتنا.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. خبرة سريرية متخصصة تُنفَّذ بتعاطف</h3><p class=\"ql-direction-rtl\">نقدّم إجراءات تمريضية متقدمة في المنزل، تشمل العناية بالجروح المعقدة، والعلاج الوريدي، وتركيب القسطرة، وإعطاء الأدوية المتخصصة، وتُنفَّذ بما يتوافق تمامًا مع أوامر الطبيب المعالج وتقاريره الطبية. ونلتزم التزامًا صارمًا بالحفاظ على كرامة الإنسان وخصوصيته الشخصية، لضمان إجراء جميع الإجراءات السريرية بلطف ورعاية واحترام تام وسرّية.</p><h3 class=\"ql-direction-rtl\">٢. مكافحة العدوى ومعايير السلامة</h3><p class=\"ql-direction-rtl\">تُدار جميع الإجراءات المتقدمة وفق معايير صارمة لمكافحة العدوى، مع الحفاظ على بيئة معقمة واستخدام مستلزمات طبية للاستخدام الواحد، لضمان السلامة والحماية التامة. وتُنفَّذ هذه الإجراءات تحت التوجيه المباشر لخطة الرعاية التي يضعها الطبيب المعالج، ويضمن المتابعة المستمرة للعلامات الحيوية والتوثيق السريري الدقيق بيئة رعاية صحية آمنة داخل المنزل.</p><h3 class=\"ql-direction-rtl\">٣. تعافٍ فعّال وراحة بال تامة للأسر</h3><p class=\"ql-direction-rtl\">نجمع بين التميّز السريري والتعاطف الحقيقي من خلال مبادئ الرعاية الفعّالة، مما يساعد المرضى على اجتياز روتينهم الطبي الصعب بثقة. ويعمل فريق الرعاية بتنسيق وثيق مع الطبيب المعالج، ليمنح الأسر راحة بال تامة بأن أحباءهم يتلقون رعاية تمريضية موثوقة وعالية المستوى.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Specialized Clinical Expertise Executed with Empathy",
+    "feature_ar": "Specialized Clinical Expertise Executed with Empathy",
+    "feature_ar_link": "خبرة سريرية متخصصة تُنفَّذ بتعاطف",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Infection Control & Safety Standards",
+    "feature_ar": "Infection Control & Safety Standards",
+    "feature_ar_link": "مكافحة العدوى ومعايير السلامة",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Recovery & Absolute Peace of Mind for Families",
+    "feature_ar": "Active Recovery & Absolute Peace of Mind for Families",
+    "feature_ar_link": "تعافٍ فعّال وراحة بال تامة للأسر",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": " home-nursing-and-advanced-procedures",
+  "image_ar": null,
+  "image_en": "/files/Home Nursing & Advanced Procedures.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:29:28.842822",
+  "name": "Home Nursing & Advanced Procedures",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Specialized Clinical Expertise Executed with Empathy</strong></p><p>We deliver advanced nursing procedures at home, including complex wound management, IV therapy, catheterization, and specialized medication administration—executed in full alignment with the treating physician’s orders and medical reports. We strictly uphold human dignity and personal privacy, ensuring all clinical procedures are handled with gentle care, utmost respect, and discretion. </p><p><strong>2. Infection Control &amp; Safety Standards</strong></p><p>All advanced procedures are managed under strict infection control standards, maintaining sterile environments and single-use medical supplies to ensure total safety and protection. Executed under the direct guidance of the treating physician’s care plan, continuous vital signs tracking and precise clinical documentation guarantee a secure healthcare setting right at home. </p><p><strong>3. Active Recovery &amp; Absolute Peace of Mind for Families</strong></p><p>We integrate clinical excellence with genuine empathy through active care principles, helping patients navigate challenging medical routines with confidence. Working in close alignment with the treating physician, our care team provides families with absolute peace of mind that their loved ones are receiving reliable, high-grade nursing </p></div>",
+  "service_feature": [
+   {
+    "feature": "Specialized Clinical Expertise Executed with Empathy",
+    "feature_ar": "Specialized Clinical Expertise Executed with Empathy",
+    "feature_ar_link": "خبرة سريرية متخصصة تُنفَّذ بتعاطف",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Infection Control & Safety Standards",
+    "feature_ar": "Infection Control & Safety Standards",
+    "feature_ar_link": "مكافحة العدوى ومعايير السلامة",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Recovery & Absolute Peace of Mind for Families",
+    "feature_ar": "Active Recovery & Absolute Peace of Mind for Families",
+    "feature_ar_link": "تعافٍ فعّال وراحة بال تامة للأسر",
+    "parent": "Home Nursing & Advanced Procedures",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "Home Nursing & Advanced Procedures",
+  "service_name_ar": "الرعاية في البيت والإجراءات المتقدمة",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Qualified nursing professionals delivering advanced medical procedures and ongoing clinical monitoring at home, so recovery happens in comfort.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>الممرضون المؤهلون يقومون بإجراء إجراءات طبية متقدمة ومتابعة سريرية مستمرة في المنزل، بحيث تحدث عملية التعافي براحة.</p></div>"
  }
 ]
