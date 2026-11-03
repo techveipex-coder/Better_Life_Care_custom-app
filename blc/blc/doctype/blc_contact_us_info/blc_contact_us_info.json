@@ -13,6 +13,8 @@
   "whats_app_number",
   "email",
   "address",
+  "ar_address",
+  "ar_timetable",
   "timetable"
  ],
  "fields": [
@@ -43,9 +45,8 @@
   },
   {
    "fieldname": "timetable",
-   "fieldtype": "Table",
-   "label": "TimeTable",
-   "options": "BLC Timetable"
+   "fieldtype": "Data",
+   "label": "TimeTable"
   },
   {
    "fieldname": "company_name",
@@ -57,12 +58,22 @@
    "fieldname": "second_phone_number",
    "fieldtype": "Data",
    "label": "Second Phone Number"
+  },
+  {
+   "fieldname": "ar_address",
+   "fieldtype": "Data",
+   "label": "Ar_Address"
+  },
+  {
+   "fieldname": "ar_timetable",
+   "fieldtype": "Data",
+   "label": "Ar_TimeTable"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-25 16:42:21.598475",
+ "modified": "2026-11-03 15:56:59.282587",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "BLC-Contact-us Info",
