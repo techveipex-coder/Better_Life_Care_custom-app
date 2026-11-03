@@ -1,24 +1,17 @@
 [
  {
   "address": "Smouha, Street 2 , Midan 386 Al Shaker building ",
+  "ar_address": "سموحة، شارع ٢، ميدان ٣٨٦، عمارة الشاكر",
+  "ar_timetable": "متاح على مدار الساعة طوال أيام الأسبوع لدعم الرعاية والاستشارات",
   "company_name": "5obmo4dp1r",
   "docstatus": 0,
   "doctype": "BLC-Contact-us Info",
   "email": "Info@better-lifecare.com",
-  "modified": "2026-11-03 11:11:44.505142",
+  "modified": "2026-11-03 16:02:30.991946",
   "name": "5obmo4dp1r",
   "phone_number": "+201041166033",
   "second_phone_number": "+201044400236",
-  "timetable": [
-   {
-    "day": "Saturday",
-    "end_time": "23:59:59",
-    "parent": "5obmo4dp1r",
-    "parentfield": "timetable",
-    "parenttype": "BLC-Contact-us Info",
-    "start_time": "16:59:09"
-   }
-  ],
+  "timetable": "Available 24/7 for Care Support & Consultations",
   "whats_app_number": "+201041166033"
  }
 ]

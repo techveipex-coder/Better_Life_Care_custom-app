@@ -320,75 +320,6 @@
   "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>ممرضون ومقدمو رعاية ماهرون يساعدون المرضى على التعافي بأمان بعد إقاماتهم في المستشفى ويديرون الحالات المزمنة بثقة، بما يتماشى تمامًا مع خطة الطبيب المعالج.</p></div>"
  },
  {
-  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. استعادة الحركة والكرامة في راحة المنزل</h3><p class=\"ql-direction-rtl\">نساعد أحباءكم على استعادة قوتهم البدنية وقدرتهم على الحركة بعد الإصابات أو العمليات الجراحية أو الأحداث العصبية، وكل ذلك في بيئة المنزل المطمئنة. ونُنفّذ خدماتنا بما يتوافق تمامًا مع أوامر الطبيب المعالج وتقاريره الطبية، ونضع أهدافًا تأهيلية مخصصة تراعي راحة كل فرد ووتيرته، مع الحفاظ على كرامة الإنسان.</p><h3 class=\"ql-direction-rtl\">٢. التأهيل الفعّال ومبادئ الوقاية من السقوط</h3><p class=\"ql-direction-rtl\">نركّز في فريق العلاج الطبيعي لدينا، من خلال تطبيق أطر الرعاية الفعّالة والوقاية، على تقوية العضلات وتحسين التوازن والوقاية من السقوط. ومن خلال مبادئ الرعاية الفعّالة، نحفّز المرضى بلطف على أداء الحركات البدنية اليومية الآمنة وفق خطة التأهيل الموصوفة لهم، مما يبني لديهم المرونة البدنية والثقة بالنفس.</p><h3 class=\"ql-direction-rtl\">٣. تقدّم يوجّهه الطبيب وثقة للأسرة</h3><p class=\"ql-direction-rtl\">نضمن تقدمًا آمنًا وقابلًا للقياس من خلال إشراف منظم على جلسات العلاج وتقييمات دورية. ومن خلال تعديل خطط الرعاية باستمرار بالتنسيق مع الأطباء المعالجين لتعكس التحسن الفعلي في الحركة، نمنح الأسر راحة بال تامة بأن أحباءهم يستعيدون استقلاليتهم بأمان.</p><p><br></p></div>",
-  "ar_service_feature": [
-   {
-    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
-    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
-    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "ar_service_feature",
-    "parenttype": "Services BLC"
-   },
-   {
-    "feature": "Active Rehabilitation & Fall Prevention Principles",
-    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
-    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "ar_service_feature",
-    "parenttype": "Services BLC"
-   },
-   {
-    "feature": "Physician-Guided Progress & Family Confidence",
-    "feature_ar": "Physician-Guided Progress & Family Confidence",
-    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "ar_service_feature",
-    "parenttype": "Services BLC"
-   }
-  ],
-  "ar_slug": null,
-  "docstatus": 0,
-  "doctype": "Services BLC",
-  "en_slug": "In-home-rehab-and-physical-therapy",
-  "image_ar": null,
-  "image_en": "/files/In-Home Rehab & Physical Therapy.jpg",
-  "is_main_service": 0,
-  "modified": "2026-11-03 15:32:21.170084",
-  "name": "In-Home Rehab & Physical Therapy",
-  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Restoring Mobility &amp; Dignity in the Comfort of Home</strong></p><p>We assist your loved ones in regaining their physical strength and mobility following injuries, surgeries, or neurological events—all within the reassuring environment of home. Executed in full alignment with the treating physician’s orders and medical reports, we establish tailored rehab goals that respect each individual's comfort and pace while upholding human dignity. </p><p><strong>2. Active Rehabilitation &amp; Fall Prevention Principles</strong></p><p>Applying active care and prevention frameworks, our physical therapy team focuses on muscle strengthening, balance enhancement, and fall prevention. Through active care principles, we gently motivate clients to engage in safe daily physical movements according to their prescribed rehab plan, building both physical resilience and personal confidence. </p><p><strong>3. Physician-Guided Progress &amp; Family Confidence</strong></p><p>We guarantee safe, measurable progress through structured therapy supervision and regular evaluations. By continuously adapting care plans in coordination with treating physicians to reflect real mobility gains, we provide families with complete peace of mind knowing their loved ones are safely regaining their independence.</p></div>",
-  "service_feature": [
-   {
-    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
-    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
-    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "service_feature",
-    "parenttype": "Services BLC"
-   },
-   {
-    "feature": "Active Rehabilitation & Fall Prevention Principles",
-    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
-    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "service_feature",
-    "parenttype": "Services BLC"
-   },
-   {
-    "feature": "Physician-Guided Progress & Family Confidence",
-    "feature_ar": "Physician-Guided Progress & Family Confidence",
-    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
-    "parent": "In-Home Rehab & Physical Therapy",
-    "parentfield": "service_feature",
-    "parenttype": "Services BLC"
-   }
-  ],
-  "service_name": "In-Home Rehab & Physical Therapy",
-  "service_name_ar": "إعادة التأهيل والعلاج الطبيعي في المنزل",
-  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Structured therapy sessions after surgery, injury, or illness, designed to restore movement safely and build confidence, in coordination with the treating physician.</p></div>",
-  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>جلسات علاجية منظّمة بعد الجراحة أو الإصابة أو المرض، مصممة لاستعادة الحركة بأمان وبناء الثقة، بالتنسيق مع الطبيب المعالج.</p></div>"
- },
- {
   "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. استشارات طبية منزلية مريحة قائمة على الكرامة</h3><p class=\"ql-direction-rtl\">من خلال شبكتنا الموثوقة من الشركاء في القطاع الصحي، نيسّر زيارات الأطباء المتخصصين وخدمات التشخيص المنزلية، لنجنّب أحباءكم عناء السفر والانتظار في المنشآت الطبية. ونلتزم التزامًا صارمًا بالحفاظ على كرامة الإنسان وخصوصيته الشخصية، لضمان أن تكون جميع الزيارات المنزلية وإجراءات التشخيص مريحة ومحترمة وتُنفَّذ وفق المعايير الطبية المهنية.</p><h3 class=\"ql-direction-rtl\">٢. الكشف المبكر والوقاية الصحية المنظمة</h3><p class=\"ql-direction-rtl\">انطلاقًا من مبادئ الوقاية الفعّالة والسلامة الصحية، تتيح عمليات سحب عينات الدم المنزلية الدورية والفحوصات التشخيصية الكشف المبكر والإدارة الفعّالة للأمراض المزمنة. ونُنفّذ ذلك بما يتوافق تمامًا مع أوامر الطبيب المعالج، ونُيسّر جميع المواعيد والتقارير التشخيصية للحفاظ على متابعة صحية واضحة واستباقية من قلب منزلكم.</p><h3 class=\"ql-direction-rtl\">٣. متابعة سريرية متكاملة وراحة بال تامة للأسرة</h3><p class=\"ql-direction-rtl\">ينسّق فريق الرعاية لدينا بسلاسة مع الأطباء الزائرين والمعالجين لدمج التعليمات الطبية مباشرة في روتين الرعاية الشخصي لمريضكم. وفي ظل إطار الإشراف المستمر على الجودة، نوفّر للأسر شفافية كاملة وراحة بال تامة بأن صحة أحبائهم في أيدٍ كفؤة ومنسّقة.</p><p><br></p></div>",
   "ar_service_feature": [
    {
@@ -732,5 +663,74 @@
   "service_name_ar": "الرعاية في البيت والإجراءات المتقدمة",
   "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Qualified nursing professionals delivering advanced medical procedures and ongoing clinical monitoring at home, so recovery happens in comfort.</p></div>",
   "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>الممرضون المؤهلون يقومون بإجراء إجراءات طبية متقدمة ومتابعة سريرية مستمرة في المنزل، بحيث تحدث عملية التعافي براحة.</p></div>"
+ },
+ {
+  "ar_service_description": "<div class=\"ql-editor read-mode\"><h3 class=\"ql-direction-rtl\">١. استعادة الحركة والكرامة في راحة المنزل</h3><p class=\"ql-direction-rtl\">نساعد أحباءكم على استعادة قوتهم البدنية وقدرتهم على الحركة بعد الإصابات أو العمليات الجراحية أو الأحداث العصبية، وكل ذلك في بيئة المنزل المطمئنة. ونُنفّذ خدماتنا بما يتوافق تمامًا مع أوامر الطبيب المعالج وتقاريره الطبية، ونضع أهدافًا تأهيلية مخصصة تراعي راحة كل فرد ووتيرته، مع الحفاظ على كرامة الإنسان.</p><h3 class=\"ql-direction-rtl\">٢. التأهيل الفعّال ومبادئ الوقاية من السقوط</h3><p class=\"ql-direction-rtl\">نركّز في فريق العلاج الطبيعي لدينا، من خلال تطبيق أطر الرعاية الفعّالة والوقاية، على تقوية العضلات وتحسين التوازن والوقاية من السقوط. ومن خلال مبادئ الرعاية الفعّالة، نحفّز المرضى بلطف على أداء الحركات البدنية اليومية الآمنة وفق خطة التأهيل الموصوفة لهم، مما يبني لديهم المرونة البدنية والثقة بالنفس.</p><h3 class=\"ql-direction-rtl\">٣. تقدّم يوجّهه الطبيب وثقة للأسرة</h3><p class=\"ql-direction-rtl\">نضمن تقدمًا آمنًا وقابلًا للقياس من خلال إشراف منظم على جلسات العلاج وتقييمات دورية. ومن خلال تعديل خطط الرعاية باستمرار بالتنسيق مع الأطباء المعالجين لتعكس التحسن الفعلي في الحركة، نمنح الأسر راحة بال تامة بأن أحباءهم يستعيدون استقلاليتهم بأمان.</p><p><br></p></div>",
+  "ar_service_feature": [
+   {
+    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Progress & Family Confidence",
+    "feature_ar": "Physician-Guided Progress & Family Confidence",
+    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "ar_service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "ar_slug": null,
+  "docstatus": 0,
+  "doctype": "Services BLC",
+  "en_slug": "In-home-rehab-and-physical-therapy",
+  "image_ar": null,
+  "image_en": "/files/In-Home Rehab & Physical Therapy.jpg",
+  "is_main_service": 0,
+  "modified": "2026-11-03 15:32:21.170084",
+  "name": "In-Home Rehab & Physical Therapy",
+  "service_description": "<div class=\"ql-editor read-mode\"><p><strong>1. Restoring Mobility &amp; Dignity in the Comfort of Home</strong></p><p>We assist your loved ones in regaining their physical strength and mobility following injuries, surgeries, or neurological events—all within the reassuring environment of home. Executed in full alignment with the treating physician’s orders and medical reports, we establish tailored rehab goals that respect each individual's comfort and pace while upholding human dignity. </p><p><strong>2. Active Rehabilitation &amp; Fall Prevention Principles</strong></p><p>Applying active care and prevention frameworks, our physical therapy team focuses on muscle strengthening, balance enhancement, and fall prevention. Through active care principles, we gently motivate clients to engage in safe daily physical movements according to their prescribed rehab plan, building both physical resilience and personal confidence. </p><p><strong>3. Physician-Guided Progress &amp; Family Confidence</strong></p><p>We guarantee safe, measurable progress through structured therapy supervision and regular evaluations. By continuously adapting care plans in coordination with treating physicians to reflect real mobility gains, we provide families with complete peace of mind knowing their loved ones are safely regaining their independence.</p></div>",
+  "service_feature": [
+   {
+    "feature": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar": "Restoring Mobility & Dignity in the Comfort of Home",
+    "feature_ar_link": "استعادة الحركة والكرامة في راحة المنزل",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar": "Active Rehabilitation & Fall Prevention Principles",
+    "feature_ar_link": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   },
+   {
+    "feature": "Physician-Guided Progress & Family Confidence",
+    "feature_ar": "Physician-Guided Progress & Family Confidence",
+    "feature_ar_link": "تقدّم يوجّهه الطبيب وثقة للأسرة",
+    "parent": "In-Home Rehab & Physical Therapy",
+    "parentfield": "service_feature",
+    "parenttype": "Services BLC"
+   }
+  ],
+  "service_name": "In-Home Rehab & Physical Therapy",
+  "service_name_ar": "إعادة التأهيل والعلاج الطبيعي في المنزل",
+  "service_sub_title": "<div class=\"ql-editor read-mode\"><p>Structured therapy sessions after surgery, injury, or illness, designed to restore movement safely and build confidence, in coordination with the treating physician.</p></div>",
+  "service_sub_title_ar": "<div class=\"ql-editor read-mode\"><p>جلسات علاجية منظّمة بعد الجراحة أو الإصابة أو المرض، مصممة لاستعادة الحركة بأمان وبناء الثقة، بالتنسيق مع الطبيب المعالج.</p></div>"
  }
 ]

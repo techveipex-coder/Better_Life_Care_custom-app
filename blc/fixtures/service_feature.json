@@ -58,14 +58,6 @@
  {
   "docstatus": 0,
   "doctype": "Service Feature",
-  "features_ar": "استعادة الحركة والكرامة في راحة المنزل",
-  "features_en": "Restoring Mobility & Dignity in the Comfort of Home",
-  "modified": "2026-11-03 14:27:47.048112",
-  "name": "Restoring Mobility & Dignity in the Comfort of Home"
- },
- {
-  "docstatus": 0,
-  "doctype": "Service Feature",
   "features_ar": "التأهيل الفعّال ومبادئ الوقاية من السقوط",
   "features_en": "Active Rehabilitation & Fall Prevention Principles",
   "modified": "2026-11-03 14:28:37.112653",
@@ -154,26 +146,18 @@
  {
   "docstatus": 0,
   "doctype": "Service Feature",
-  "features_ar": "انتقال سلس وآمن من المستشفى إلى المنزل",
-  "features_en": "Seamless & Safe Transition from Hospital to Home",
-  "modified": "2026-11-03 12:42:31.000074",
-  "name": "Seamless & Safe Transition from Hospital to Home"
- },
- {
-  "docstatus": 0,
-  "doctype": "Service Feature",
-  "features_ar": "التأهيل الفعّال ومبادئ الوقاية",
-  "features_en": "Active Rehabilitation & Prevention Principles",
-  "modified": "2026-11-03 12:43:25.927446",
-  "name": "Active Rehabilitation & Prevention Principles"
- },
- {
-  "docstatus": 0,
-  "doctype": "Service Feature",
   "features_ar": "متابعة سريرية دقيقة بدفء يبعث على الطمأنينة",
   "features_en": "Rigorous Clinical Monitoring with Reassuring Warmth",
   "modified": "2026-11-03 12:46:30.632666",
   "name": "Rigorous Clinical Monitoring with Reassuring Warmth"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "استعادة الحركة والكرامة في راحة المنزل",
+  "features_en": "Restoring Mobility & Dignity in the Comfort of Home",
+  "modified": "2026-11-03 14:27:47.048112",
+  "name": "Restoring Mobility & Dignity in the Comfort of Home"
  },
  {
   "docstatus": 0,
@@ -206,6 +190,22 @@
   "features_en": "Active Daily Living & Independence",
   "modified": "2026-10-27 13:35:14.791390",
   "name": "Active Daily Living & Independence"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "انتقال سلس وآمن من المستشفى إلى المنزل",
+  "features_en": "Seamless & Safe Transition from Hospital to Home",
+  "modified": "2026-11-03 12:42:31.000074",
+  "name": "Seamless & Safe Transition from Hospital to Home"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Service Feature",
+  "features_ar": "التأهيل الفعّال ومبادئ الوقاية",
+  "features_en": "Active Rehabilitation & Prevention Principles",
+  "modified": "2026-11-03 12:43:25.927446",
+  "name": "Active Rehabilitation & Prevention Principles"
  },
  {
   "docstatus": 0,
