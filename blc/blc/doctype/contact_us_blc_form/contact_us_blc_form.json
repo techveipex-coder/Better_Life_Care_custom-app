@@ -11,7 +11,8 @@
   "phone_number",
   "email_id",
   "how_we_help_you",
-  "needed_services"
+  "needed_services",
+  "recipients_email_address"
  ],
  "fields": [
   {
@@ -47,12 +48,21 @@
    "fieldtype": "Table MultiSelect",
    "label": "Needed Services",
    "options": "Service-child"
+  },
+  {
+   "default": "info@better-lifecare.com",
+   "fieldname": "recipients_email_address",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "recipient's email address",
+   "options": "Email",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-10-20 10:37:13.544453",
+ "modified": "2026-11-04 16:06:49.819673",
  "modified_by": "Administrator",
  "module": "BLC",
  "name": "Contact-us BLC Form",
